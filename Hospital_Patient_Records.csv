@@ -1,0 +1,1001 @@
+Patient ID,Name,Age,Gender,Admission Date,Discharge Date,Department,Diagnosis,Treatment,Doctor Assigned,Room Number,Insurance Provider,Total Charges,Payment Status,Follow-up Required
+PID10000,Patient_0,51,Female,2024-06-08,2024-06-21,Orthopedics,Asthma,Medication,Dr. AA,433,MediCover,14521.97,Paid,No
+PID10001,Patient_1,92,Other,2024-02-10,2024-02-19,Pediatrics,Diabetes,Surgery,Dr. BC,454,HealthSafe,11176.6,Pending,Yes
+PID10002,Patient_2,14,Male,2024-04-23,2024-05-04,Neurology,Migraine,Observation,Dr. CE,215,MediCover,18903.67,Paid,Yes
+PID10003,Patient_3,71,Other,2024-01-08,2024-01-19,Neurology,Fracture,Surgery,Dr. DG,147,HealthSafe,5392.36,Pending,Yes
+PID10004,Patient_4,60,Female,2024-03-12,2024-03-18,Cardiology,Migraine,Medication,Dr. EI,325,No Insurance,2460.97,Partially Paid,Yes
+PID10005,Patient_5,20,Male,2024-06-26,2024-06-27,General Surgery,Fracture,Surgery,Dr. FK,365,No Insurance,8168.6,Partially Paid,No
+PID10006,Patient_6,82,Male,2024-04-01,2024-04-07,Pediatrics,Hypertension,Physiotherapy,Dr. GM,198,InsureWell,12525.9,Paid,No
+PID10007,Patient_7,86,Female,2024-03-02,2024-03-08,Cardiology,Asthma,Observation,Dr. HO,110,MediCover,17285.58,Pending,Yes
+PID10008,Patient_8,74,Female,2024-03-24,2024-04-06,General Surgery,Diabetes,Physiotherapy,Dr. IQ,184,HealthSafe,7250.84,Paid,Yes
+PID10009,Patient_9,74,Female,2024-03-02,2024-03-08,Pediatrics,Migraine,Medication,Dr. JS,313,MediCover,13248.84,Pending,No
+PID10010,Patient_10,87,Other,2024-04-20,2024-04-28,Orthopedics,Fracture,Surgery,Dr. KU,272,No Insurance,7328.87,Pending,Yes
+PID10011,Patient_11,99,Other,2024-05-06,2024-05-12,Pediatrics,Flu,Physiotherapy,Dr. LW,490,MediCover,12535.78,Pending,No
+PID10012,Patient_12,23,Male,2024-01-07,2024-01-12,Neurology,Diabetes,Physiotherapy,Dr. MY,308,HealthSafe,17753.75,Partially Paid,Yes
+PID10013,Patient_13,2,Female,2024-03-24,2024-04-04,Neurology,Hypertension,Surgery,Dr. NA,481,MediCover,5011.47,Pending,No
+PID10014,Patient_14,21,Male,2024-05-11,2024-05-13,Orthopedics,Fracture,Surgery,Dr. OC,163,HealthSafe,8382.71,Partially Paid,No
+PID10015,Patient_15,52,Male,2024-05-13,2024-05-17,Cardiology,Asthma,Observation,Dr. PE,357,No Insurance,19868.67,Pending,No
+PID10016,Patient_16,1,Male,2024-02-27,2024-03-12,General Surgery,Asthma,Physiotherapy,Dr. QG,431,No Insurance,17436.86,Partially Paid,No
+PID10017,Patient_17,87,Male,2024-01-22,2024-02-01,Pediatrics,Hypertension,Physiotherapy,Dr. RI,220,No Insurance,11510.48,Partially Paid,Yes
+PID10018,Patient_18,29,Female,2024-06-02,2024-06-07,Neurology,Hypertension,Medication,Dr. SK,397,InsureWell,10574.24,Partially Paid,Yes
+PID10019,Patient_19,37,Male,2024-05-06,2024-05-16,Cardiology,Asthma,Observation,Dr. TM,153,No Insurance,6049.71,Paid,No
+PID10020,Patient_20,1,Female,2024-01-03,2024-01-07,Orthopedics,Migraine,Medication,Dr. UO,430,MediCover,10585.58,Pending,No
+PID10021,Patient_21,63,Female,2024-05-06,2024-05-08,Neurology,Migraine,Physiotherapy,Dr. VQ,371,InsureWell,17039.54,Paid,No
+PID10022,Patient_22,59,Other,2024-02-10,2024-02-17,Orthopedics,Fracture,Medication,Dr. WS,340,No Insurance,13860.9,Pending,No
+PID10023,Patient_23,20,Female,2024-04-15,2024-04-25,Pediatrics,Flu,Physiotherapy,Dr. XU,342,MediCover,6155.86,Pending,Yes
+PID10024,Patient_24,32,Other,2024-01-14,2024-01-24,General Surgery,Fracture,Physiotherapy,Dr. YW,117,MediCover,4428.55,Paid,No
+PID10025,Patient_25,75,Female,2024-01-12,2024-01-14,Neurology,Flu,Medication,Dr. ZY,286,MediCover,5671.57,Partially Paid,No
+PID10026,Patient_26,57,Female,2024-03-27,2024-03-28,Neurology,Hypertension,Medication,Dr. AA,445,HealthSafe,3810.3,Pending,No
+PID10027,Patient_27,21,Female,2024-01-12,2024-01-26,Pediatrics,Diabetes,Surgery,Dr. BC,243,InsureWell,2364.99,Partially Paid,No
+PID10028,Patient_28,88,Other,2024-05-20,2024-05-25,Cardiology,Fracture,Surgery,Dr. CE,361,MediCover,8673.16,Paid,No
+PID10029,Patient_29,48,Other,2024-01-25,2024-02-06,General Surgery,Fracture,Surgery,Dr. DG,463,HealthSafe,2709.34,Partially Paid,No
+PID10030,Patient_30,90,Male,2024-02-14,2024-02-27,Neurology,Flu,Physiotherapy,Dr. EI,338,No Insurance,3852.29,Pending,No
+PID10031,Patient_31,58,Other,2024-05-01,2024-05-02,General Surgery,Hypertension,Medication,Dr. FK,403,MediCover,11172.83,Pending,Yes
+PID10032,Patient_32,41,Other,2024-05-26,2024-05-27,Neurology,Hypertension,Observation,Dr. GM,397,HealthSafe,3709.69,Pending,No
+PID10033,Patient_33,91,Other,2024-02-24,2024-02-25,General Surgery,Flu,Physiotherapy,Dr. HO,175,MediCover,1745.66,Paid,No
+PID10034,Patient_34,59,Other,2024-04-09,2024-04-15,Orthopedics,Hypertension,Observation,Dr. IQ,287,InsureWell,6689.08,Pending,No
+PID10035,Patient_35,79,Male,2024-06-21,2024-06-30,Neurology,Asthma,Medication,Dr. JS,432,InsureWell,4796.22,Paid,Yes
+PID10036,Patient_36,14,Other,2024-05-15,2024-05-25,General Surgery,Migraine,Physiotherapy,Dr. KU,487,No Insurance,10548.45,Partially Paid,Yes
+PID10037,Patient_37,61,Female,2024-04-28,2024-05-11,Cardiology,Asthma,Observation,Dr. LW,345,MediCover,2496.16,Pending,Yes
+PID10038,Patient_38,61,Female,2024-02-22,2024-03-04,Orthopedics,Diabetes,Observation,Dr. MY,229,HealthSafe,15159.53,Pending,No
+PID10039,Patient_39,46,Other,2024-02-01,2024-02-13,Orthopedics,Fracture,Surgery,Dr. NA,414,No Insurance,18171.55,Pending,No
+PID10040,Patient_40,61,Other,2024-02-20,2024-02-21,Cardiology,Diabetes,Surgery,Dr. OC,382,MediCover,14996.99,Partially Paid,No
+PID10041,Patient_41,50,Female,2024-02-13,2024-02-18,General Surgery,Fracture,Surgery,Dr. PE,178,No Insurance,10890.13,Pending,Yes
+PID10042,Patient_42,54,Female,2024-03-22,2024-03-31,Pediatrics,Migraine,Physiotherapy,Dr. QG,171,HealthSafe,17283.02,Paid,No
+PID10043,Patient_43,63,Male,2024-05-25,2024-06-08,Cardiology,Hypertension,Medication,Dr. RI,362,No Insurance,14050.91,Partially Paid,Yes
+PID10044,Patient_44,2,Female,2024-05-29,2024-06-07,General Surgery,Asthma,Medication,Dr. SK,290,No Insurance,705.75,Partially Paid,Yes
+PID10045,Patient_45,50,Female,2024-02-06,2024-02-07,Cardiology,Flu,Surgery,Dr. TM,466,No Insurance,8184.76,Partially Paid,Yes
+PID10046,Patient_46,6,Other,2024-04-05,2024-04-13,Cardiology,Asthma,Surgery,Dr. UO,474,MediCover,17093.56,Partially Paid,Yes
+PID10047,Patient_47,20,Female,2024-02-25,2024-02-26,Neurology,Migraine,Surgery,Dr. VQ,162,HealthSafe,7244.25,Partially Paid,Yes
+PID10048,Patient_48,72,Male,2024-04-14,2024-04-22,General Surgery,Diabetes,Observation,Dr. WS,479,InsureWell,1186.7,Paid,No
+PID10049,Patient_49,38,Female,2024-02-28,2024-02-29,Pediatrics,Flu,Surgery,Dr. XU,111,MediCover,15050.5,Partially Paid,No
+PID10050,Patient_50,17,Other,2024-05-10,2024-05-22,Neurology,Hypertension,Observation,Dr. YW,240,InsureWell,16139.75,Pending,Yes
+PID10051,Patient_51,3,Other,2024-06-04,2024-06-09,Cardiology,Migraine,Medication,Dr. ZY,353,InsureWell,3631.58,Partially Paid,No
+PID10052,Patient_52,88,Female,2024-02-04,2024-02-12,Cardiology,Flu,Physiotherapy,Dr. AA,142,MediCover,10978.14,Partially Paid,No
+PID10053,Patient_53,59,Other,2024-04-02,2024-04-08,Cardiology,Migraine,Physiotherapy,Dr. BC,116,MediCover,4243.13,Partially Paid,Yes
+PID10054,Patient_54,13,Male,2024-04-06,2024-04-15,General Surgery,Migraine,Physiotherapy,Dr. CE,162,HealthSafe,14525.07,Partially Paid,Yes
+PID10055,Patient_55,8,Male,2024-05-14,2024-05-15,General Surgery,Hypertension,Physiotherapy,Dr. DG,352,HealthSafe,5795.23,Partially Paid,No
+PID10056,Patient_56,89,Female,2024-03-16,2024-03-25,Neurology,Fracture,Observation,Dr. EI,475,No Insurance,6666.19,Paid,No
+PID10057,Patient_57,52,Female,2024-02-18,2024-02-19,Pediatrics,Flu,Observation,Dr. FK,391,InsureWell,16976.93,Paid,No
+PID10058,Patient_58,1,Female,2024-04-03,2024-04-13,Neurology,Hypertension,Surgery,Dr. GM,107,HealthSafe,9788.29,Partially Paid,No
+PID10059,Patient_59,83,Other,2024-06-07,2024-06-17,Orthopedics,Migraine,Observation,Dr. HO,424,No Insurance,13560.21,Paid,Yes
+PID10060,Patient_60,91,Male,2024-01-24,2024-01-27,Cardiology,Hypertension,Surgery,Dr. IQ,189,HealthSafe,8346.27,Pending,No
+PID10061,Patient_61,59,Male,2024-05-27,2024-05-28,Cardiology,Fracture,Surgery,Dr. JS,307,MediCover,6311.13,Partially Paid,Yes
+PID10062,Patient_62,70,Other,2024-02-06,2024-02-09,Cardiology,Asthma,Physiotherapy,Dr. KU,391,HealthSafe,12696.82,Pending,Yes
+PID10063,Patient_63,43,Male,2024-01-04,2024-01-16,Neurology,Flu,Observation,Dr. LW,383,InsureWell,3519.72,Pending,No
+PID10064,Patient_64,7,Female,2024-04-17,2024-04-28,Neurology,Fracture,Observation,Dr. MY,217,HealthSafe,7773.5,Partially Paid,No
+PID10065,Patient_65,46,Female,2024-05-05,2024-05-18,Cardiology,Diabetes,Surgery,Dr. NA,448,InsureWell,4576.22,Pending,No
+PID10066,Patient_66,34,Female,2024-01-20,2024-01-22,Neurology,Flu,Surgery,Dr. OC,274,MediCover,14068.0,Pending,Yes
+PID10067,Patient_67,77,Male,2024-05-31,2024-06-02,General Surgery,Fracture,Medication,Dr. PE,175,InsureWell,18912.07,Pending,Yes
+PID10068,Patient_68,80,Female,2024-02-19,2024-02-28,General Surgery,Migraine,Medication,Dr. QG,200,HealthSafe,19912.46,Partially Paid,Yes
+PID10069,Patient_69,35,Other,2024-06-25,2024-07-03,Neurology,Flu,Surgery,Dr. RI,250,No Insurance,9280.4,Partially Paid,Yes
+PID10070,Patient_70,49,Other,2024-06-27,2024-06-28,Cardiology,Flu,Medication,Dr. SK,499,MediCover,5424.34,Pending,No
+PID10071,Patient_71,3,Male,2024-04-05,2024-04-17,Neurology,Hypertension,Medication,Dr. TM,369,HealthSafe,9135.17,Partially Paid,Yes
+PID10072,Patient_72,1,Other,2024-04-14,2024-04-28,Neurology,Migraine,Surgery,Dr. UO,170,MediCover,17021.75,Partially Paid,Yes
+PID10073,Patient_73,5,Other,2024-06-12,2024-06-16,Neurology,Diabetes,Surgery,Dr. VQ,279,MediCover,4517.11,Pending,No
+PID10074,Patient_74,53,Male,2024-04-26,2024-05-09,Orthopedics,Asthma,Observation,Dr. WS,223,HealthSafe,19065.87,Partially Paid,Yes
+PID10075,Patient_75,3,Female,2024-04-07,2024-04-08,General Surgery,Fracture,Surgery,Dr. XU,480,HealthSafe,7166.38,Paid,Yes
+PID10076,Patient_76,53,Female,2024-03-06,2024-03-07,Pediatrics,Hypertension,Surgery,Dr. YW,392,No Insurance,19723.17,Partially Paid,No
+PID10077,Patient_77,92,Female,2024-03-19,2024-03-31,Pediatrics,Fracture,Physiotherapy,Dr. ZY,384,MediCover,16852.87,Paid,Yes
+PID10078,Patient_78,62,Male,2024-06-10,2024-06-22,Orthopedics,Diabetes,Observation,Dr. AA,294,MediCover,16267.13,Pending,Yes
+PID10079,Patient_79,17,Other,2024-06-12,2024-06-16,Neurology,Diabetes,Observation,Dr. BC,498,HealthSafe,6699.14,Partially Paid,Yes
+PID10080,Patient_80,89,Female,2024-01-06,2024-01-08,Orthopedics,Flu,Observation,Dr. CE,327,InsureWell,671.16,Pending,Yes
+PID10081,Patient_81,43,Female,2024-02-08,2024-02-11,Orthopedics,Diabetes,Physiotherapy,Dr. DG,374,HealthSafe,7951.59,Pending,No
+PID10082,Patient_82,33,Male,2024-06-18,2024-06-29,Cardiology,Fracture,Surgery,Dr. EI,205,MediCover,6385.28,Pending,Yes
+PID10083,Patient_83,73,Female,2024-04-24,2024-05-03,General Surgery,Migraine,Observation,Dr. FK,120,HealthSafe,1229.24,Pending,No
+PID10084,Patient_84,61,Male,2024-05-04,2024-05-06,Pediatrics,Migraine,Observation,Dr. GM,163,No Insurance,10354.62,Pending,Yes
+PID10085,Patient_85,99,Other,2024-01-12,2024-01-16,Neurology,Flu,Medication,Dr. HO,264,InsureWell,8359.11,Partially Paid,No
+PID10086,Patient_86,13,Male,2024-05-10,2024-05-11,Pediatrics,Asthma,Observation,Dr. IQ,126,HealthSafe,12873.85,Paid,No
+PID10087,Patient_87,94,Male,2024-01-18,2024-01-20,Pediatrics,Fracture,Surgery,Dr. JS,410,No Insurance,12613.13,Partially Paid,No
+PID10088,Patient_88,47,Male,2024-02-09,2024-02-14,General Surgery,Fracture,Surgery,Dr. KU,384,MediCover,2854.56,Partially Paid,Yes
+PID10089,Patient_89,14,Male,2024-01-21,2024-02-04,Pediatrics,Diabetes,Medication,Dr. LW,247,HealthSafe,19550.83,Partially Paid,Yes
+PID10090,Patient_90,71,Other,2024-05-22,2024-06-01,Pediatrics,Fracture,Observation,Dr. MY,380,MediCover,4145.16,Partially Paid,Yes
+PID10091,Patient_91,77,Other,2024-04-08,2024-04-09,Orthopedics,Hypertension,Observation,Dr. NA,425,No Insurance,9182.84,Paid,No
+PID10092,Patient_92,86,Female,2024-01-26,2024-02-06,General Surgery,Asthma,Observation,Dr. OC,418,MediCover,10018.29,Partially Paid,Yes
+PID10093,Patient_93,61,Other,2024-01-08,2024-01-15,Cardiology,Diabetes,Physiotherapy,Dr. PE,263,No Insurance,16354.72,Pending,Yes
+PID10094,Patient_94,39,Other,2024-04-09,2024-04-13,Neurology,Hypertension,Observation,Dr. QG,485,No Insurance,2434.98,Partially Paid,Yes
+PID10095,Patient_95,84,Female,2024-03-27,2024-04-02,Pediatrics,Flu,Surgery,Dr. RI,323,No Insurance,8858.56,Partially Paid,Yes
+PID10096,Patient_96,79,Other,2024-02-11,2024-02-19,Neurology,Migraine,Surgery,Dr. SK,371,HealthSafe,12755.79,Paid,No
+PID10097,Patient_97,81,Male,2024-06-20,2024-07-03,Cardiology,Flu,Physiotherapy,Dr. TM,245,MediCover,4695.53,Paid,No
+PID10098,Patient_98,52,Male,2024-01-14,2024-01-20,Neurology,Migraine,Physiotherapy,Dr. UO,455,MediCover,12735.62,Pending,Yes
+PID10099,Patient_99,23,Female,2024-03-18,2024-04-01,Cardiology,Flu,Observation,Dr. VQ,129,InsureWell,18511.46,Partially Paid,Yes
+PID10100,Patient_100,25,Female,2024-01-02,2024-01-04,Orthopedics,Fracture,Medication,Dr. WS,144,InsureWell,19951.6,Partially Paid,Yes
+PID10101,Patient_101,88,Female,2024-04-28,2024-04-29,Pediatrics,Hypertension,Physiotherapy,Dr. XU,374,InsureWell,1132.8,Partially Paid,No
+PID10102,Patient_102,59,Male,2024-02-06,2024-02-14,Cardiology,Migraine,Physiotherapy,Dr. YW,133,InsureWell,5093.97,Pending,Yes
+PID10103,Patient_103,40,Other,2024-03-09,2024-03-17,Neurology,Diabetes,Observation,Dr. ZY,240,MediCover,6550.99,Paid,No
+PID10104,Patient_104,28,Male,2024-06-14,2024-06-23,Pediatrics,Hypertension,Observation,Dr. AA,417,No Insurance,8282.96,Pending,No
+PID10105,Patient_105,14,Female,2024-02-10,2024-02-16,Orthopedics,Diabetes,Physiotherapy,Dr. BC,473,No Insurance,5224.01,Partially Paid,Yes
+PID10106,Patient_106,44,Other,2024-03-02,2024-03-14,Pediatrics,Hypertension,Medication,Dr. CE,320,HealthSafe,4468.02,Paid,Yes
+PID10107,Patient_107,64,Other,2024-02-29,2024-03-01,Cardiology,Hypertension,Physiotherapy,Dr. DG,455,No Insurance,19113.8,Paid,Yes
+PID10108,Patient_108,88,Male,2024-05-04,2024-05-18,Orthopedics,Flu,Observation,Dr. EI,121,MediCover,18411.17,Pending,No
+PID10109,Patient_109,70,Female,2024-04-20,2024-04-29,Neurology,Migraine,Observation,Dr. FK,279,MediCover,1416.35,Paid,No
+PID10110,Patient_110,8,Male,2024-01-14,2024-01-26,Orthopedics,Migraine,Physiotherapy,Dr. GM,466,MediCover,7106.85,Paid,Yes
+PID10111,Patient_111,87,Other,2024-03-24,2024-04-06,Orthopedics,Hypertension,Medication,Dr. HO,428,HealthSafe,8400.4,Partially Paid,No
+PID10112,Patient_112,0,Male,2024-05-09,2024-05-23,General Surgery,Fracture,Physiotherapy,Dr. IQ,330,InsureWell,5160.78,Partially Paid,Yes
+PID10113,Patient_113,7,Male,2024-03-10,2024-03-13,Orthopedics,Fracture,Physiotherapy,Dr. JS,137,No Insurance,12763.02,Paid,Yes
+PID10114,Patient_114,87,Female,2024-05-24,2024-06-04,Orthopedics,Diabetes,Observation,Dr. KU,169,MediCover,12987.42,Paid,No
+PID10115,Patient_115,62,Female,2024-05-02,2024-05-08,Pediatrics,Diabetes,Medication,Dr. LW,215,MediCover,17084.83,Pending,No
+PID10116,Patient_116,10,Other,2024-03-29,2024-04-08,Neurology,Flu,Surgery,Dr. MY,338,InsureWell,14946.95,Pending,No
+PID10117,Patient_117,80,Male,2024-01-28,2024-02-10,Pediatrics,Hypertension,Medication,Dr. NA,434,MediCover,11080.18,Paid,No
+PID10118,Patient_118,7,Male,2024-03-06,2024-03-16,Pediatrics,Diabetes,Physiotherapy,Dr. OC,247,No Insurance,13244.94,Partially Paid,Yes
+PID10119,Patient_119,34,Male,2024-06-11,2024-06-22,Cardiology,Diabetes,Physiotherapy,Dr. PE,108,HealthSafe,5842.78,Paid,Yes
+PID10120,Patient_120,34,Other,2024-01-05,2024-01-17,Pediatrics,Asthma,Physiotherapy,Dr. QG,387,MediCover,12064.6,Paid,Yes
+PID10121,Patient_121,32,Other,2024-06-16,2024-06-30,General Surgery,Hypertension,Medication,Dr. RI,487,No Insurance,10039.93,Partially Paid,No
+PID10122,Patient_122,4,Female,2024-06-12,2024-06-21,General Surgery,Flu,Observation,Dr. SK,149,MediCover,3100.22,Partially Paid,Yes
+PID10123,Patient_123,40,Female,2024-02-14,2024-02-25,Cardiology,Diabetes,Physiotherapy,Dr. TM,437,InsureWell,5229.61,Pending,No
+PID10124,Patient_124,27,Female,2024-05-30,2024-06-12,Neurology,Flu,Physiotherapy,Dr. UO,104,MediCover,6188.02,Pending,No
+PID10125,Patient_125,6,Male,2024-02-16,2024-02-19,Neurology,Migraine,Medication,Dr. VQ,442,MediCover,18524.04,Pending,No
+PID10126,Patient_126,72,Male,2024-01-31,2024-02-05,Pediatrics,Flu,Surgery,Dr. WS,225,HealthSafe,4992.54,Pending,Yes
+PID10127,Patient_127,71,Female,2024-05-18,2024-05-31,Pediatrics,Fracture,Surgery,Dr. XU,174,InsureWell,6140.26,Partially Paid,No
+PID10128,Patient_128,11,Male,2024-01-10,2024-01-24,Pediatrics,Fracture,Observation,Dr. YW,264,InsureWell,7702.41,Paid,No
+PID10129,Patient_129,33,Female,2024-04-27,2024-05-02,Neurology,Flu,Observation,Dr. ZY,377,HealthSafe,13442.98,Pending,No
+PID10130,Patient_130,32,Other,2024-01-14,2024-01-24,Orthopedics,Fracture,Physiotherapy,Dr. AA,423,MediCover,2805.65,Pending,No
+PID10131,Patient_131,47,Female,2024-03-20,2024-03-27,General Surgery,Migraine,Medication,Dr. BC,399,No Insurance,19101.93,Partially Paid,No
+PID10132,Patient_132,22,Other,2024-04-02,2024-04-06,Orthopedics,Hypertension,Physiotherapy,Dr. CE,389,InsureWell,17378.64,Partially Paid,No
+PID10133,Patient_133,61,Male,2024-01-10,2024-01-21,Orthopedics,Fracture,Observation,Dr. DG,176,InsureWell,11755.71,Paid,No
+PID10134,Patient_134,87,Female,2024-03-16,2024-03-20,Neurology,Fracture,Medication,Dr. EI,397,MediCover,13643.74,Paid,No
+PID10135,Patient_135,36,Male,2024-04-03,2024-04-10,Orthopedics,Flu,Medication,Dr. FK,236,MediCover,824.88,Partially Paid,No
+PID10136,Patient_136,98,Other,2024-04-14,2024-04-23,Cardiology,Migraine,Observation,Dr. GM,205,InsureWell,7109.42,Pending,No
+PID10137,Patient_137,43,Other,2024-01-01,2024-01-12,Pediatrics,Hypertension,Surgery,Dr. HO,194,MediCover,16015.37,Pending,No
+PID10138,Patient_138,85,Other,2024-05-12,2024-05-16,Cardiology,Flu,Surgery,Dr. IQ,234,No Insurance,2010.92,Pending,No
+PID10139,Patient_139,90,Male,2024-01-20,2024-01-24,General Surgery,Flu,Medication,Dr. JS,167,InsureWell,6005.12,Paid,Yes
+PID10140,Patient_140,34,Male,2024-01-08,2024-01-14,Pediatrics,Asthma,Physiotherapy,Dr. KU,246,No Insurance,11913.29,Pending,Yes
+PID10141,Patient_141,64,Male,2024-06-19,2024-06-25,Orthopedics,Migraine,Surgery,Dr. LW,258,No Insurance,5500.05,Pending,No
+PID10142,Patient_142,98,Male,2024-01-01,2024-01-08,General Surgery,Hypertension,Physiotherapy,Dr. MY,483,MediCover,18712.57,Partially Paid,No
+PID10143,Patient_143,46,Other,2024-02-26,2024-02-27,Pediatrics,Migraine,Surgery,Dr. NA,262,No Insurance,3055.64,Pending,No
+PID10144,Patient_144,77,Other,2024-03-04,2024-03-17,Orthopedics,Hypertension,Surgery,Dr. OC,440,MediCover,16049.19,Partially Paid,Yes
+PID10145,Patient_145,2,Female,2024-04-27,2024-05-08,Cardiology,Migraine,Physiotherapy,Dr. PE,288,HealthSafe,10405.0,Pending,Yes
+PID10146,Patient_146,0,Female,2024-01-28,2024-02-11,Pediatrics,Flu,Observation,Dr. QG,438,MediCover,15131.45,Paid,Yes
+PID10147,Patient_147,4,Male,2024-04-30,2024-05-03,Orthopedics,Flu,Surgery,Dr. RI,194,No Insurance,6558.95,Pending,No
+PID10148,Patient_148,89,Other,2024-04-16,2024-04-25,Cardiology,Diabetes,Surgery,Dr. SK,280,HealthSafe,10532.55,Pending,No
+PID10149,Patient_149,13,Other,2024-06-13,2024-06-19,General Surgery,Fracture,Physiotherapy,Dr. TM,387,MediCover,17208.29,Partially Paid,No
+PID10150,Patient_150,26,Other,2024-06-23,2024-06-29,General Surgery,Asthma,Observation,Dr. UO,421,No Insurance,9604.12,Partially Paid,No
+PID10151,Patient_151,8,Female,2024-06-13,2024-06-18,General Surgery,Migraine,Surgery,Dr. VQ,286,InsureWell,7514.54,Partially Paid,Yes
+PID10152,Patient_152,78,Female,2024-02-18,2024-02-29,General Surgery,Asthma,Surgery,Dr. WS,471,InsureWell,10955.03,Pending,No
+PID10153,Patient_153,14,Other,2024-04-29,2024-05-02,Neurology,Diabetes,Observation,Dr. XU,237,MediCover,14488.57,Pending,Yes
+PID10154,Patient_154,89,Other,2024-02-13,2024-02-24,Pediatrics,Fracture,Surgery,Dr. YW,229,MediCover,9149.49,Paid,Yes
+PID10155,Patient_155,41,Other,2024-02-25,2024-03-01,Pediatrics,Migraine,Observation,Dr. ZY,293,InsureWell,18808.1,Pending,No
+PID10156,Patient_156,76,Female,2024-06-04,2024-06-18,Neurology,Hypertension,Observation,Dr. AA,415,No Insurance,6251.44,Paid,Yes
+PID10157,Patient_157,50,Other,2024-04-20,2024-04-21,Orthopedics,Fracture,Physiotherapy,Dr. BC,372,No Insurance,9771.54,Partially Paid,Yes
+PID10158,Patient_158,62,Other,2024-05-13,2024-05-16,Orthopedics,Flu,Medication,Dr. CE,451,No Insurance,15260.09,Partially Paid,Yes
+PID10159,Patient_159,95,Male,2024-04-17,2024-04-21,General Surgery,Diabetes,Observation,Dr. DG,243,MediCover,13937.86,Partially Paid,Yes
+PID10160,Patient_160,51,Male,2024-05-27,2024-06-01,Cardiology,Fracture,Physiotherapy,Dr. EI,115,HealthSafe,17341.0,Paid,No
+PID10161,Patient_161,95,Female,2024-04-23,2024-05-03,Orthopedics,Fracture,Medication,Dr. FK,401,HealthSafe,19937.78,Pending,No
+PID10162,Patient_162,3,Other,2024-03-18,2024-03-27,Cardiology,Flu,Surgery,Dr. GM,344,HealthSafe,8823.74,Partially Paid,Yes
+PID10163,Patient_163,93,Other,2024-05-09,2024-05-13,Pediatrics,Migraine,Medication,Dr. HO,206,HealthSafe,2667.44,Pending,No
+PID10164,Patient_164,22,Male,2024-02-06,2024-02-09,Cardiology,Hypertension,Observation,Dr. IQ,187,HealthSafe,1093.11,Pending,Yes
+PID10165,Patient_165,14,Female,2024-01-20,2024-01-30,Pediatrics,Flu,Observation,Dr. JS,228,MediCover,14674.1,Partially Paid,No
+PID10166,Patient_166,42,Male,2024-01-26,2024-01-27,Neurology,Hypertension,Observation,Dr. KU,494,MediCover,17543.27,Paid,No
+PID10167,Patient_167,28,Male,2024-01-29,2024-02-11,Neurology,Migraine,Observation,Dr. LW,474,HealthSafe,4803.9,Pending,No
+PID10168,Patient_168,35,Male,2024-01-01,2024-01-11,General Surgery,Fracture,Observation,Dr. MY,440,MediCover,3589.74,Partially Paid,No
+PID10169,Patient_169,12,Male,2024-04-28,2024-05-04,Orthopedics,Hypertension,Physiotherapy,Dr. NA,103,MediCover,1713.0,Pending,No
+PID10170,Patient_170,31,Other,2024-02-04,2024-02-11,General Surgery,Diabetes,Observation,Dr. OC,426,HealthSafe,16542.71,Pending,Yes
+PID10171,Patient_171,70,Other,2024-02-28,2024-03-09,Pediatrics,Diabetes,Physiotherapy,Dr. PE,466,No Insurance,6571.95,Pending,No
+PID10172,Patient_172,58,Male,2024-03-09,2024-03-17,General Surgery,Flu,Surgery,Dr. QG,405,MediCover,8333.09,Pending,Yes
+PID10173,Patient_173,85,Female,2024-06-09,2024-06-21,Cardiology,Migraine,Observation,Dr. RI,495,No Insurance,10303.63,Pending,Yes
+PID10174,Patient_174,27,Female,2024-06-27,2024-06-28,Pediatrics,Flu,Observation,Dr. SK,194,MediCover,16869.34,Paid,No
+PID10175,Patient_175,65,Female,2024-01-12,2024-01-24,Neurology,Flu,Medication,Dr. TM,308,MediCover,13191.25,Paid,Yes
+PID10176,Patient_176,41,Female,2024-01-20,2024-01-24,Orthopedics,Asthma,Surgery,Dr. UO,324,HealthSafe,12493.76,Partially Paid,No
+PID10177,Patient_177,44,Male,2024-02-12,2024-02-23,Pediatrics,Flu,Observation,Dr. VQ,447,MediCover,3925.61,Paid,Yes
+PID10178,Patient_178,61,Other,2024-05-05,2024-05-10,Pediatrics,Asthma,Observation,Dr. WS,420,InsureWell,10507.2,Paid,Yes
+PID10179,Patient_179,56,Female,2024-02-19,2024-02-21,Cardiology,Diabetes,Surgery,Dr. XU,146,InsureWell,14449.93,Paid,No
+PID10180,Patient_180,5,Male,2024-01-29,2024-01-30,Orthopedics,Diabetes,Physiotherapy,Dr. YW,280,HealthSafe,19478.59,Pending,No
+PID10181,Patient_181,27,Female,2024-02-08,2024-02-16,Neurology,Flu,Observation,Dr. ZY,205,No Insurance,4427.42,Pending,No
+PID10182,Patient_182,27,Female,2024-06-19,2024-06-25,Pediatrics,Diabetes,Medication,Dr. AA,298,No Insurance,686.1,Partially Paid,No
+PID10183,Patient_183,43,Male,2024-06-26,2024-07-01,Pediatrics,Migraine,Observation,Dr. BC,485,No Insurance,1968.38,Partially Paid,Yes
+PID10184,Patient_184,83,Other,2024-05-30,2024-06-12,Cardiology,Asthma,Medication,Dr. CE,205,InsureWell,7829.12,Partially Paid,No
+PID10185,Patient_185,29,Other,2024-06-20,2024-06-29,General Surgery,Asthma,Medication,Dr. DG,379,No Insurance,16500.62,Pending,Yes
+PID10186,Patient_186,61,Male,2024-02-07,2024-02-20,Neurology,Flu,Observation,Dr. EI,359,No Insurance,639.27,Paid,Yes
+PID10187,Patient_187,74,Other,2024-03-24,2024-04-04,Orthopedics,Diabetes,Observation,Dr. FK,207,HealthSafe,9406.25,Paid,Yes
+PID10188,Patient_188,91,Male,2024-05-30,2024-06-12,Pediatrics,Hypertension,Medication,Dr. GM,118,No Insurance,6920.0,Pending,Yes
+PID10189,Patient_189,88,Male,2024-05-07,2024-05-18,Pediatrics,Asthma,Surgery,Dr. HO,395,InsureWell,1523.39,Partially Paid,Yes
+PID10190,Patient_190,61,Male,2024-05-05,2024-05-07,Neurology,Flu,Surgery,Dr. IQ,405,InsureWell,9279.61,Partially Paid,Yes
+PID10191,Patient_191,96,Other,2024-02-14,2024-02-24,General Surgery,Flu,Observation,Dr. JS,270,InsureWell,5467.6,Partially Paid,No
+PID10192,Patient_192,0,Male,2024-02-21,2024-03-04,Pediatrics,Migraine,Physiotherapy,Dr. KU,430,HealthSafe,7361.75,Pending,Yes
+PID10193,Patient_193,26,Female,2024-03-20,2024-03-28,Neurology,Fracture,Surgery,Dr. LW,294,HealthSafe,14259.5,Partially Paid,Yes
+PID10194,Patient_194,61,Other,2024-06-26,2024-07-07,Cardiology,Fracture,Observation,Dr. MY,111,MediCover,10670.24,Partially Paid,Yes
+PID10195,Patient_195,76,Other,2024-05-03,2024-05-17,General Surgery,Asthma,Surgery,Dr. NA,294,No Insurance,2930.62,Pending,No
+PID10196,Patient_196,2,Other,2024-04-28,2024-05-08,Orthopedics,Migraine,Physiotherapy,Dr. OC,382,HealthSafe,19247.58,Paid,No
+PID10197,Patient_197,69,Other,2024-01-08,2024-01-21,Pediatrics,Migraine,Observation,Dr. PE,468,InsureWell,12900.26,Pending,Yes
+PID10198,Patient_198,71,Female,2024-03-25,2024-04-03,Neurology,Migraine,Physiotherapy,Dr. QG,281,InsureWell,15434.43,Pending,No
+PID10199,Patient_199,26,Other,2024-05-08,2024-05-09,Cardiology,Asthma,Observation,Dr. RI,404,HealthSafe,2044.66,Pending,Yes
+PID10200,Patient_200,8,Other,2024-01-08,2024-01-15,Orthopedics,Fracture,Physiotherapy,Dr. SK,243,HealthSafe,1417.64,Pending,No
+PID10201,Patient_201,61,Male,2024-06-05,2024-06-13,Neurology,Migraine,Surgery,Dr. TM,485,HealthSafe,879.24,Paid,Yes
+PID10202,Patient_202,36,Other,2024-04-05,2024-04-08,Neurology,Diabetes,Surgery,Dr. UO,415,MediCover,4181.48,Partially Paid,No
+PID10203,Patient_203,96,Female,2024-04-11,2024-04-25,Orthopedics,Flu,Physiotherapy,Dr. VQ,281,InsureWell,8580.96,Pending,No
+PID10204,Patient_204,50,Female,2024-01-05,2024-01-09,Cardiology,Flu,Physiotherapy,Dr. WS,129,MediCover,18748.61,Paid,No
+PID10205,Patient_205,43,Female,2024-03-26,2024-04-08,Cardiology,Hypertension,Physiotherapy,Dr. XU,183,MediCover,9412.66,Partially Paid,Yes
+PID10206,Patient_206,23,Female,2024-06-23,2024-06-26,General Surgery,Hypertension,Observation,Dr. YW,265,No Insurance,6159.97,Partially Paid,Yes
+PID10207,Patient_207,78,Other,2024-02-03,2024-02-10,Pediatrics,Asthma,Surgery,Dr. ZY,383,InsureWell,11457.74,Partially Paid,Yes
+PID10208,Patient_208,58,Other,2024-02-24,2024-03-04,Orthopedics,Asthma,Observation,Dr. AA,380,InsureWell,2682.72,Pending,No
+PID10209,Patient_209,31,Female,2024-04-28,2024-05-01,Orthopedics,Flu,Surgery,Dr. BC,195,HealthSafe,12385.36,Pending,No
+PID10210,Patient_210,95,Female,2024-06-19,2024-07-02,Orthopedics,Diabetes,Medication,Dr. CE,480,HealthSafe,11584.42,Partially Paid,Yes
+PID10211,Patient_211,87,Other,2024-06-06,2024-06-12,Cardiology,Fracture,Observation,Dr. DG,365,No Insurance,15943.86,Partially Paid,No
+PID10212,Patient_212,51,Female,2024-04-23,2024-05-01,Pediatrics,Fracture,Surgery,Dr. EI,397,MediCover,19740.41,Partially Paid,Yes
+PID10213,Patient_213,61,Male,2024-05-24,2024-05-30,General Surgery,Asthma,Surgery,Dr. FK,395,HealthSafe,5392.03,Partially Paid,Yes
+PID10214,Patient_214,57,Female,2024-01-26,2024-01-28,Neurology,Diabetes,Observation,Dr. GM,324,HealthSafe,10438.3,Partially Paid,Yes
+PID10215,Patient_215,51,Female,2024-05-15,2024-05-28,Neurology,Asthma,Observation,Dr. HO,432,InsureWell,18222.88,Partially Paid,Yes
+PID10216,Patient_216,11,Male,2024-02-16,2024-02-23,Orthopedics,Fracture,Surgery,Dr. IQ,460,InsureWell,15811.2,Paid,No
+PID10217,Patient_217,38,Male,2024-04-22,2024-04-24,Pediatrics,Asthma,Observation,Dr. JS,473,HealthSafe,10004.42,Partially Paid,No
+PID10218,Patient_218,1,Other,2024-03-16,2024-03-18,Cardiology,Migraine,Physiotherapy,Dr. KU,141,InsureWell,18934.75,Pending,No
+PID10219,Patient_219,2,Other,2024-03-12,2024-03-14,Pediatrics,Asthma,Observation,Dr. LW,402,No Insurance,1616.12,Pending,Yes
+PID10220,Patient_220,55,Male,2024-03-29,2024-04-09,Pediatrics,Flu,Observation,Dr. MY,345,HealthSafe,18654.47,Pending,No
+PID10221,Patient_221,80,Male,2024-02-15,2024-02-16,Cardiology,Asthma,Observation,Dr. NA,307,InsureWell,1484.89,Partially Paid,Yes
+PID10222,Patient_222,58,Other,2024-02-02,2024-02-16,Orthopedics,Flu,Surgery,Dr. OC,336,No Insurance,11172.44,Pending,Yes
+PID10223,Patient_223,1,Female,2024-01-01,2024-01-12,Pediatrics,Diabetes,Physiotherapy,Dr. PE,121,InsureWell,17863.6,Paid,Yes
+PID10224,Patient_224,1,Male,2024-05-26,2024-05-27,Neurology,Fracture,Medication,Dr. QG,284,InsureWell,5623.06,Partially Paid,Yes
+PID10225,Patient_225,91,Other,2024-01-31,2024-02-14,Cardiology,Hypertension,Medication,Dr. RI,341,InsureWell,9708.85,Pending,Yes
+PID10226,Patient_226,53,Female,2024-05-21,2024-05-28,General Surgery,Hypertension,Physiotherapy,Dr. SK,462,HealthSafe,6824.41,Paid,Yes
+PID10227,Patient_227,86,Male,2024-02-22,2024-03-06,Orthopedics,Fracture,Physiotherapy,Dr. TM,382,MediCover,19066.81,Paid,No
+PID10228,Patient_228,95,Female,2024-02-17,2024-03-02,Cardiology,Hypertension,Physiotherapy,Dr. UO,140,InsureWell,16561.09,Pending,No
+PID10229,Patient_229,96,Other,2024-03-09,2024-03-23,General Surgery,Asthma,Surgery,Dr. VQ,435,No Insurance,14325.53,Paid,No
+PID10230,Patient_230,0,Male,2024-04-14,2024-04-28,General Surgery,Diabetes,Medication,Dr. WS,261,HealthSafe,11958.73,Pending,No
+PID10231,Patient_231,18,Female,2024-03-30,2024-04-11,Pediatrics,Diabetes,Physiotherapy,Dr. XU,259,HealthSafe,16501.54,Paid,Yes
+PID10232,Patient_232,1,Male,2024-03-03,2024-03-08,Pediatrics,Fracture,Surgery,Dr. YW,188,No Insurance,8149.21,Partially Paid,Yes
+PID10233,Patient_233,52,Female,2024-03-13,2024-03-24,Pediatrics,Hypertension,Medication,Dr. ZY,421,InsureWell,9227.26,Partially Paid,No
+PID10234,Patient_234,43,Other,2024-06-09,2024-06-12,Cardiology,Asthma,Observation,Dr. AA,111,MediCover,14735.03,Partially Paid,No
+PID10235,Patient_235,89,Other,2024-06-17,2024-06-18,Cardiology,Diabetes,Surgery,Dr. BC,172,InsureWell,7476.22,Partially Paid,No
+PID10236,Patient_236,31,Male,2024-03-29,2024-04-09,Orthopedics,Diabetes,Medication,Dr. CE,175,No Insurance,1746.07,Partially Paid,No
+PID10237,Patient_237,69,Female,2024-06-24,2024-07-04,Pediatrics,Migraine,Surgery,Dr. DG,445,HealthSafe,1949.52,Pending,No
+PID10238,Patient_238,31,Male,2024-01-13,2024-01-19,General Surgery,Migraine,Medication,Dr. EI,300,MediCover,2749.57,Partially Paid,No
+PID10239,Patient_239,67,Male,2024-03-13,2024-03-24,Neurology,Diabetes,Medication,Dr. FK,109,HealthSafe,17458.79,Partially Paid,No
+PID10240,Patient_240,54,Female,2024-03-17,2024-03-18,Orthopedics,Fracture,Observation,Dr. GM,451,No Insurance,9708.42,Partially Paid,No
+PID10241,Patient_241,74,Female,2024-06-07,2024-06-16,Cardiology,Flu,Surgery,Dr. HO,325,InsureWell,14401.21,Partially Paid,Yes
+PID10242,Patient_242,55,Female,2024-03-08,2024-03-10,Orthopedics,Flu,Physiotherapy,Dr. IQ,275,MediCover,8161.73,Paid,Yes
+PID10243,Patient_243,16,Other,2024-04-07,2024-04-08,Orthopedics,Asthma,Observation,Dr. JS,375,HealthSafe,5544.86,Partially Paid,Yes
+PID10244,Patient_244,37,Male,2024-05-04,2024-05-16,Orthopedics,Diabetes,Observation,Dr. KU,138,HealthSafe,7270.25,Partially Paid,Yes
+PID10245,Patient_245,23,Male,2024-04-11,2024-04-18,Orthopedics,Diabetes,Medication,Dr. LW,159,HealthSafe,15986.56,Pending,No
+PID10246,Patient_246,68,Other,2024-05-11,2024-05-17,Neurology,Diabetes,Physiotherapy,Dr. MY,165,InsureWell,12691.71,Paid,Yes
+PID10247,Patient_247,97,Female,2024-04-11,2024-04-17,Pediatrics,Fracture,Surgery,Dr. NA,420,MediCover,18783.98,Pending,No
+PID10248,Patient_248,69,Other,2024-01-19,2024-02-02,General Surgery,Migraine,Physiotherapy,Dr. OC,223,InsureWell,13754.24,Partially Paid,Yes
+PID10249,Patient_249,85,Other,2024-03-22,2024-03-27,Orthopedics,Diabetes,Physiotherapy,Dr. PE,263,InsureWell,11618.54,Pending,No
+PID10250,Patient_250,10,Other,2024-05-20,2024-05-31,Orthopedics,Diabetes,Physiotherapy,Dr. QG,485,InsureWell,12398.82,Pending,No
+PID10251,Patient_251,15,Male,2024-01-23,2024-01-27,Orthopedics,Hypertension,Physiotherapy,Dr. RI,258,No Insurance,18876.24,Partially Paid,Yes
+PID10252,Patient_252,96,Other,2024-03-23,2024-04-03,Pediatrics,Fracture,Physiotherapy,Dr. SK,156,No Insurance,15869.92,Paid,Yes
+PID10253,Patient_253,72,Male,2024-04-18,2024-04-22,Cardiology,Asthma,Medication,Dr. TM,177,No Insurance,968.8,Paid,No
+PID10254,Patient_254,58,Male,2024-03-15,2024-03-18,Cardiology,Diabetes,Medication,Dr. UO,293,MediCover,10915.72,Pending,No
+PID10255,Patient_255,69,Male,2024-05-08,2024-05-18,Neurology,Hypertension,Observation,Dr. VQ,384,InsureWell,13922.6,Partially Paid,No
+PID10256,Patient_256,79,Female,2024-03-28,2024-04-05,Cardiology,Flu,Medication,Dr. WS,114,InsureWell,15099.62,Pending,Yes
+PID10257,Patient_257,92,Male,2024-02-23,2024-03-01,Orthopedics,Asthma,Observation,Dr. XU,111,No Insurance,4656.27,Pending,Yes
+PID10258,Patient_258,2,Male,2024-03-29,2024-04-07,Orthopedics,Diabetes,Observation,Dr. YW,200,InsureWell,17409.96,Pending,No
+PID10259,Patient_259,19,Female,2024-05-22,2024-05-23,Orthopedics,Diabetes,Surgery,Dr. ZY,255,InsureWell,19138.94,Partially Paid,Yes
+PID10260,Patient_260,58,Male,2024-03-05,2024-03-12,Neurology,Hypertension,Physiotherapy,Dr. AA,439,HealthSafe,5115.95,Partially Paid,No
+PID10261,Patient_261,35,Other,2024-03-16,2024-03-26,Orthopedics,Fracture,Medication,Dr. BC,224,InsureWell,17711.0,Paid,Yes
+PID10262,Patient_262,18,Other,2024-05-22,2024-05-26,Cardiology,Diabetes,Surgery,Dr. CE,458,HealthSafe,2391.09,Partially Paid,Yes
+PID10263,Patient_263,89,Male,2024-05-28,2024-06-04,Pediatrics,Flu,Medication,Dr. DG,379,InsureWell,1586.28,Pending,Yes
+PID10264,Patient_264,66,Female,2024-05-26,2024-06-08,Pediatrics,Diabetes,Observation,Dr. EI,493,MediCover,3019.86,Pending,Yes
+PID10265,Patient_265,18,Other,2024-02-29,2024-03-12,General Surgery,Flu,Medication,Dr. FK,209,No Insurance,1625.95,Paid,Yes
+PID10266,Patient_266,19,Female,2024-04-02,2024-04-03,Cardiology,Asthma,Physiotherapy,Dr. GM,433,HealthSafe,16977.74,Partially Paid,No
+PID10267,Patient_267,95,Female,2024-06-09,2024-06-14,Orthopedics,Asthma,Observation,Dr. HO,456,No Insurance,1651.48,Pending,No
+PID10268,Patient_268,70,Other,2024-02-18,2024-02-21,Pediatrics,Migraine,Observation,Dr. IQ,245,HealthSafe,5797.45,Paid,Yes
+PID10269,Patient_269,51,Female,2024-02-04,2024-02-09,Cardiology,Migraine,Surgery,Dr. JS,315,HealthSafe,2523.25,Paid,No
+PID10270,Patient_270,32,Other,2024-06-20,2024-06-24,Pediatrics,Flu,Physiotherapy,Dr. KU,497,HealthSafe,6260.73,Pending,No
+PID10271,Patient_271,39,Female,2024-04-11,2024-04-13,Orthopedics,Fracture,Observation,Dr. LW,261,MediCover,2265.91,Pending,Yes
+PID10272,Patient_272,38,Other,2024-01-11,2024-01-22,Pediatrics,Diabetes,Physiotherapy,Dr. MY,227,InsureWell,13526.06,Partially Paid,No
+PID10273,Patient_273,81,Male,2024-04-08,2024-04-12,General Surgery,Diabetes,Medication,Dr. NA,413,HealthSafe,3099.87,Paid,Yes
+PID10274,Patient_274,0,Other,2024-04-19,2024-04-22,General Surgery,Migraine,Physiotherapy,Dr. OC,431,MediCover,17111.0,Pending,No
+PID10275,Patient_275,10,Other,2024-03-14,2024-03-27,Pediatrics,Flu,Observation,Dr. PE,249,HealthSafe,16435.23,Paid,No
+PID10276,Patient_276,91,Other,2024-06-22,2024-06-23,Cardiology,Diabetes,Surgery,Dr. QG,135,InsureWell,766.4,Partially Paid,No
+PID10277,Patient_277,56,Other,2024-01-09,2024-01-21,Cardiology,Diabetes,Observation,Dr. RI,272,HealthSafe,17966.66,Pending,No
+PID10278,Patient_278,88,Female,2024-01-03,2024-01-13,Cardiology,Fracture,Physiotherapy,Dr. SK,121,MediCover,1064.41,Partially Paid,No
+PID10279,Patient_279,49,Male,2024-03-25,2024-04-02,Pediatrics,Hypertension,Physiotherapy,Dr. TM,305,InsureWell,5173.09,Paid,No
+PID10280,Patient_280,22,Other,2024-01-26,2024-01-31,Cardiology,Migraine,Observation,Dr. UO,226,MediCover,1131.59,Partially Paid,No
+PID10281,Patient_281,30,Female,2024-03-12,2024-03-16,Orthopedics,Migraine,Physiotherapy,Dr. VQ,435,InsureWell,7048.95,Partially Paid,Yes
+PID10282,Patient_282,93,Male,2024-02-17,2024-02-27,General Surgery,Hypertension,Medication,Dr. WS,455,InsureWell,10520.4,Paid,Yes
+PID10283,Patient_283,41,Male,2024-06-04,2024-06-16,Orthopedics,Diabetes,Observation,Dr. XU,316,No Insurance,16034.57,Partially Paid,Yes
+PID10284,Patient_284,98,Male,2024-04-26,2024-05-01,Cardiology,Fracture,Surgery,Dr. YW,195,No Insurance,7090.64,Paid,Yes
+PID10285,Patient_285,6,Male,2024-06-02,2024-06-06,Orthopedics,Fracture,Observation,Dr. ZY,263,No Insurance,14257.06,Pending,No
+PID10286,Patient_286,15,Other,2024-06-01,2024-06-04,Cardiology,Migraine,Medication,Dr. AA,247,InsureWell,4156.34,Paid,No
+PID10287,Patient_287,89,Other,2024-01-12,2024-01-17,Pediatrics,Fracture,Medication,Dr. BC,117,HealthSafe,15136.67,Paid,No
+PID10288,Patient_288,59,Female,2024-05-12,2024-05-16,Orthopedics,Asthma,Medication,Dr. CE,393,MediCover,5101.93,Pending,Yes
+PID10289,Patient_289,1,Female,2024-02-17,2024-02-18,Pediatrics,Hypertension,Medication,Dr. DG,294,MediCover,3299.12,Paid,Yes
+PID10290,Patient_290,0,Female,2024-02-06,2024-02-18,Pediatrics,Diabetes,Medication,Dr. EI,250,MediCover,4115.47,Pending,Yes
+PID10291,Patient_291,47,Male,2024-02-13,2024-02-16,Neurology,Asthma,Surgery,Dr. FK,464,No Insurance,4050.23,Pending,No
+PID10292,Patient_292,11,Male,2024-01-15,2024-01-25,Cardiology,Hypertension,Physiotherapy,Dr. GM,222,InsureWell,10500.83,Paid,Yes
+PID10293,Patient_293,68,Other,2024-02-12,2024-02-22,General Surgery,Flu,Medication,Dr. HO,499,No Insurance,16973.55,Partially Paid,No
+PID10294,Patient_294,36,Male,2024-06-24,2024-07-02,Cardiology,Migraine,Medication,Dr. IQ,286,HealthSafe,2052.3,Partially Paid,Yes
+PID10295,Patient_295,31,Male,2024-03-27,2024-04-03,General Surgery,Fracture,Observation,Dr. JS,248,InsureWell,14285.65,Pending,No
+PID10296,Patient_296,8,Male,2024-03-10,2024-03-12,Cardiology,Flu,Surgery,Dr. KU,203,MediCover,13259.76,Partially Paid,Yes
+PID10297,Patient_297,98,Female,2024-02-15,2024-02-16,Pediatrics,Fracture,Surgery,Dr. LW,342,No Insurance,17514.14,Partially Paid,No
+PID10298,Patient_298,18,Female,2024-04-17,2024-04-20,Orthopedics,Asthma,Physiotherapy,Dr. MY,330,No Insurance,5260.88,Paid,Yes
+PID10299,Patient_299,47,Other,2024-05-02,2024-05-07,Orthopedics,Diabetes,Surgery,Dr. NA,305,HealthSafe,9277.14,Pending,Yes
+PID10300,Patient_300,79,Male,2024-06-19,2024-06-29,Neurology,Diabetes,Observation,Dr. OC,297,HealthSafe,18553.63,Pending,No
+PID10301,Patient_301,2,Male,2024-01-21,2024-02-01,General Surgery,Diabetes,Observation,Dr. PE,495,No Insurance,13369.87,Paid,No
+PID10302,Patient_302,19,Other,2024-05-30,2024-06-11,General Surgery,Fracture,Physiotherapy,Dr. QG,499,HealthSafe,8080.98,Partially Paid,Yes
+PID10303,Patient_303,23,Male,2024-04-16,2024-04-17,General Surgery,Flu,Observation,Dr. RI,436,MediCover,3062.54,Pending,No
+PID10304,Patient_304,53,Male,2024-03-20,2024-03-23,Pediatrics,Diabetes,Medication,Dr. SK,186,HealthSafe,5618.46,Partially Paid,Yes
+PID10305,Patient_305,32,Female,2024-02-16,2024-02-19,General Surgery,Flu,Medication,Dr. TM,241,HealthSafe,11833.7,Pending,No
+PID10306,Patient_306,23,Other,2024-04-26,2024-05-01,Orthopedics,Fracture,Observation,Dr. UO,416,No Insurance,14504.27,Pending,Yes
+PID10307,Patient_307,74,Other,2024-05-03,2024-05-06,Pediatrics,Asthma,Physiotherapy,Dr. VQ,298,No Insurance,2926.23,Pending,No
+PID10308,Patient_308,71,Other,2024-05-22,2024-06-04,Cardiology,Flu,Surgery,Dr. WS,145,InsureWell,12192.15,Pending,Yes
+PID10309,Patient_309,35,Other,2024-01-25,2024-02-03,General Surgery,Asthma,Physiotherapy,Dr. XU,387,InsureWell,11231.85,Partially Paid,Yes
+PID10310,Patient_310,37,Female,2024-02-05,2024-02-06,General Surgery,Fracture,Surgery,Dr. YW,114,No Insurance,10522.13,Partially Paid,Yes
+PID10311,Patient_311,83,Female,2024-02-20,2024-02-24,Cardiology,Fracture,Observation,Dr. ZY,143,HealthSafe,13957.4,Partially Paid,No
+PID10312,Patient_312,98,Male,2024-01-15,2024-01-28,General Surgery,Migraine,Observation,Dr. AA,268,HealthSafe,16830.27,Partially Paid,Yes
+PID10313,Patient_313,88,Male,2024-03-08,2024-03-21,Cardiology,Fracture,Medication,Dr. BC,409,InsureWell,6798.3,Paid,No
+PID10314,Patient_314,98,Male,2024-01-21,2024-01-31,Pediatrics,Fracture,Surgery,Dr. CE,143,InsureWell,17835.74,Pending,No
+PID10315,Patient_315,24,Male,2024-05-20,2024-05-30,Orthopedics,Hypertension,Physiotherapy,Dr. DG,197,InsureWell,3632.36,Pending,No
+PID10316,Patient_316,92,Female,2024-01-19,2024-01-23,Cardiology,Diabetes,Observation,Dr. EI,360,MediCover,3873.97,Pending,Yes
+PID10317,Patient_317,17,Other,2024-02-03,2024-02-04,Neurology,Migraine,Physiotherapy,Dr. FK,208,MediCover,5702.06,Paid,No
+PID10318,Patient_318,81,Female,2024-03-18,2024-04-01,Cardiology,Migraine,Medication,Dr. GM,382,InsureWell,2830.85,Partially Paid,No
+PID10319,Patient_319,65,Male,2024-05-04,2024-05-06,General Surgery,Migraine,Surgery,Dr. HO,471,HealthSafe,4991.22,Pending,No
+PID10320,Patient_320,53,Female,2024-04-26,2024-05-07,Pediatrics,Hypertension,Surgery,Dr. IQ,442,InsureWell,2575.03,Partially Paid,Yes
+PID10321,Patient_321,34,Other,2024-02-21,2024-02-22,Pediatrics,Asthma,Observation,Dr. JS,203,MediCover,16524.17,Partially Paid,No
+PID10322,Patient_322,79,Other,2024-01-27,2024-02-02,Cardiology,Fracture,Surgery,Dr. KU,355,HealthSafe,3209.9,Paid,No
+PID10323,Patient_323,60,Female,2024-06-05,2024-06-08,Orthopedics,Diabetes,Observation,Dr. LW,478,MediCover,15072.3,Paid,No
+PID10324,Patient_324,40,Female,2024-06-04,2024-06-11,Neurology,Flu,Medication,Dr. MY,305,HealthSafe,1434.32,Partially Paid,No
+PID10325,Patient_325,99,Female,2024-02-04,2024-02-09,Pediatrics,Asthma,Surgery,Dr. NA,434,MediCover,18996.15,Pending,Yes
+PID10326,Patient_326,32,Male,2024-05-15,2024-05-24,General Surgery,Fracture,Observation,Dr. OC,142,HealthSafe,14367.62,Pending,Yes
+PID10327,Patient_327,67,Female,2024-05-23,2024-05-30,General Surgery,Hypertension,Physiotherapy,Dr. PE,452,HealthSafe,632.53,Paid,No
+PID10328,Patient_328,32,Female,2024-04-15,2024-04-19,Orthopedics,Fracture,Observation,Dr. QG,344,HealthSafe,15395.2,Paid,No
+PID10329,Patient_329,13,Female,2024-06-12,2024-06-17,Pediatrics,Fracture,Surgery,Dr. RI,386,HealthSafe,10524.6,Paid,No
+PID10330,Patient_330,20,Other,2024-06-06,2024-06-11,Cardiology,Hypertension,Medication,Dr. SK,454,No Insurance,15697.62,Paid,No
+PID10331,Patient_331,47,Other,2024-05-25,2024-06-05,General Surgery,Migraine,Surgery,Dr. TM,372,MediCover,10688.69,Paid,Yes
+PID10332,Patient_332,19,Male,2024-01-02,2024-01-07,Orthopedics,Migraine,Surgery,Dr. UO,182,MediCover,12999.98,Paid,Yes
+PID10333,Patient_333,7,Male,2024-06-25,2024-07-05,Pediatrics,Diabetes,Observation,Dr. VQ,209,No Insurance,15833.47,Paid,Yes
+PID10334,Patient_334,6,Other,2024-03-17,2024-03-26,Pediatrics,Diabetes,Physiotherapy,Dr. WS,289,HealthSafe,8399.61,Pending,Yes
+PID10335,Patient_335,66,Other,2024-05-11,2024-05-21,Pediatrics,Migraine,Surgery,Dr. XU,387,HealthSafe,552.81,Paid,No
+PID10336,Patient_336,16,Other,2024-03-30,2024-04-02,Pediatrics,Asthma,Physiotherapy,Dr. YW,496,MediCover,17073.96,Paid,No
+PID10337,Patient_337,32,Female,2024-03-29,2024-04-04,Pediatrics,Flu,Observation,Dr. ZY,350,No Insurance,7927.36,Pending,Yes
+PID10338,Patient_338,47,Female,2024-04-03,2024-04-11,General Surgery,Fracture,Physiotherapy,Dr. AA,311,HealthSafe,10172.83,Pending,Yes
+PID10339,Patient_339,75,Other,2024-01-07,2024-01-18,Orthopedics,Flu,Observation,Dr. BC,390,HealthSafe,651.45,Partially Paid,No
+PID10340,Patient_340,58,Female,2024-04-04,2024-04-13,Pediatrics,Fracture,Medication,Dr. CE,232,HealthSafe,10095.79,Paid,No
+PID10341,Patient_341,85,Female,2024-04-17,2024-04-30,Neurology,Migraine,Physiotherapy,Dr. DG,300,InsureWell,19736.5,Paid,No
+PID10342,Patient_342,21,Male,2024-03-14,2024-03-21,Neurology,Diabetes,Physiotherapy,Dr. EI,384,No Insurance,5926.22,Paid,No
+PID10343,Patient_343,29,Other,2024-02-08,2024-02-20,Orthopedics,Asthma,Medication,Dr. FK,425,HealthSafe,8210.66,Paid,No
+PID10344,Patient_344,37,Other,2024-05-20,2024-05-23,Cardiology,Diabetes,Physiotherapy,Dr. GM,194,InsureWell,13900.2,Partially Paid,Yes
+PID10345,Patient_345,50,Female,2024-06-07,2024-06-08,Cardiology,Flu,Medication,Dr. HO,377,No Insurance,16388.48,Pending,Yes
+PID10346,Patient_346,53,Other,2024-03-11,2024-03-15,Cardiology,Diabetes,Surgery,Dr. IQ,424,HealthSafe,8639.14,Pending,No
+PID10347,Patient_347,7,Male,2024-02-25,2024-03-09,Neurology,Migraine,Observation,Dr. JS,318,MediCover,6538.54,Paid,No
+PID10348,Patient_348,26,Male,2024-06-18,2024-06-24,Cardiology,Asthma,Medication,Dr. KU,188,InsureWell,18787.6,Paid,Yes
+PID10349,Patient_349,26,Male,2024-02-11,2024-02-14,General Surgery,Flu,Physiotherapy,Dr. LW,171,InsureWell,13704.33,Paid,No
+PID10350,Patient_350,97,Other,2024-02-05,2024-02-19,Pediatrics,Asthma,Medication,Dr. MY,346,HealthSafe,2820.92,Partially Paid,Yes
+PID10351,Patient_351,20,Other,2024-03-24,2024-03-25,Neurology,Fracture,Physiotherapy,Dr. NA,228,HealthSafe,1844.09,Partially Paid,Yes
+PID10352,Patient_352,29,Other,2024-04-27,2024-05-03,Orthopedics,Diabetes,Surgery,Dr. OC,311,InsureWell,9929.22,Pending,Yes
+PID10353,Patient_353,96,Other,2024-01-07,2024-01-21,Orthopedics,Asthma,Medication,Dr. PE,442,MediCover,4791.76,Paid,Yes
+PID10354,Patient_354,27,Other,2024-02-23,2024-02-24,Pediatrics,Hypertension,Surgery,Dr. QG,195,MediCover,5452.7,Paid,No
+PID10355,Patient_355,63,Male,2024-05-08,2024-05-17,Neurology,Diabetes,Observation,Dr. RI,174,No Insurance,17615.0,Paid,No
+PID10356,Patient_356,96,Female,2024-06-20,2024-07-01,Cardiology,Fracture,Physiotherapy,Dr. SK,153,HealthSafe,2246.54,Paid,Yes
+PID10357,Patient_357,68,Male,2024-04-29,2024-05-13,Cardiology,Asthma,Physiotherapy,Dr. TM,443,MediCover,14449.6,Partially Paid,No
+PID10358,Patient_358,60,Other,2024-06-21,2024-07-03,General Surgery,Flu,Surgery,Dr. UO,153,No Insurance,5787.27,Pending,No
+PID10359,Patient_359,47,Male,2024-04-15,2024-04-16,General Surgery,Fracture,Observation,Dr. VQ,317,MediCover,15326.4,Pending,No
+PID10360,Patient_360,18,Other,2024-02-16,2024-02-29,Cardiology,Hypertension,Medication,Dr. WS,115,HealthSafe,14587.02,Partially Paid,No
+PID10361,Patient_361,3,Other,2024-05-02,2024-05-08,Orthopedics,Asthma,Medication,Dr. XU,198,No Insurance,644.14,Paid,Yes
+PID10362,Patient_362,34,Male,2024-05-20,2024-05-21,Orthopedics,Migraine,Physiotherapy,Dr. YW,119,No Insurance,10428.14,Pending,No
+PID10363,Patient_363,63,Other,2024-04-28,2024-05-10,General Surgery,Diabetes,Surgery,Dr. ZY,145,No Insurance,3216.73,Pending,Yes
+PID10364,Patient_364,48,Female,2024-05-29,2024-06-05,Pediatrics,Flu,Surgery,Dr. AA,292,MediCover,17391.43,Partially Paid,Yes
+PID10365,Patient_365,16,Other,2024-04-27,2024-04-30,Cardiology,Migraine,Medication,Dr. BC,482,HealthSafe,17495.92,Paid,No
+PID10366,Patient_366,43,Female,2024-01-21,2024-01-27,General Surgery,Asthma,Observation,Dr. CE,157,No Insurance,8657.74,Pending,Yes
+PID10367,Patient_367,91,Female,2024-05-16,2024-05-23,General Surgery,Asthma,Observation,Dr. DG,210,InsureWell,9165.71,Paid,No
+PID10368,Patient_368,29,Other,2024-01-26,2024-01-27,Cardiology,Fracture,Medication,Dr. EI,228,HealthSafe,6414.02,Pending,No
+PID10369,Patient_369,92,Male,2024-01-09,2024-01-10,Cardiology,Asthma,Medication,Dr. FK,436,InsureWell,14473.82,Partially Paid,Yes
+PID10370,Patient_370,45,Female,2024-01-15,2024-01-28,Orthopedics,Flu,Surgery,Dr. GM,293,InsureWell,7493.9,Paid,No
+PID10371,Patient_371,5,Male,2024-01-10,2024-01-15,Pediatrics,Migraine,Observation,Dr. HO,439,No Insurance,5721.95,Partially Paid,Yes
+PID10372,Patient_372,98,Female,2024-05-01,2024-05-07,Pediatrics,Flu,Medication,Dr. IQ,425,No Insurance,8928.51,Pending,Yes
+PID10373,Patient_373,36,Other,2024-04-30,2024-05-09,Cardiology,Hypertension,Medication,Dr. JS,107,MediCover,2284.01,Partially Paid,No
+PID10374,Patient_374,23,Other,2024-05-04,2024-05-18,Neurology,Hypertension,Physiotherapy,Dr. KU,128,MediCover,15058.76,Partially Paid,No
+PID10375,Patient_375,92,Female,2024-06-18,2024-06-19,General Surgery,Diabetes,Medication,Dr. LW,211,MediCover,745.63,Partially Paid,No
+PID10376,Patient_376,45,Other,2024-03-12,2024-03-25,General Surgery,Diabetes,Medication,Dr. MY,260,HealthSafe,13067.46,Pending,Yes
+PID10377,Patient_377,52,Female,2024-05-31,2024-06-04,Cardiology,Hypertension,Observation,Dr. NA,230,MediCover,4065.86,Paid,No
+PID10378,Patient_378,94,Other,2024-02-18,2024-02-28,Neurology,Asthma,Surgery,Dr. OC,287,InsureWell,5031.88,Partially Paid,Yes
+PID10379,Patient_379,98,Male,2024-06-02,2024-06-10,Orthopedics,Flu,Observation,Dr. PE,262,MediCover,12894.82,Paid,Yes
+PID10380,Patient_380,59,Other,2024-03-31,2024-04-10,Cardiology,Hypertension,Surgery,Dr. QG,296,No Insurance,19862.4,Pending,No
+PID10381,Patient_381,96,Male,2024-02-06,2024-02-15,Cardiology,Diabetes,Physiotherapy,Dr. RI,463,MediCover,15665.49,Paid,No
+PID10382,Patient_382,62,Other,2024-03-08,2024-03-21,General Surgery,Hypertension,Medication,Dr. SK,303,HealthSafe,4903.87,Partially Paid,No
+PID10383,Patient_383,84,Male,2024-02-19,2024-02-22,Cardiology,Asthma,Physiotherapy,Dr. TM,311,HealthSafe,3932.48,Partially Paid,Yes
+PID10384,Patient_384,31,Other,2024-05-31,2024-06-11,Cardiology,Hypertension,Surgery,Dr. UO,208,InsureWell,17391.54,Partially Paid,No
+PID10385,Patient_385,86,Male,2024-01-19,2024-01-21,Cardiology,Flu,Observation,Dr. VQ,375,HealthSafe,9161.59,Partially Paid,Yes
+PID10386,Patient_386,32,Female,2024-04-09,2024-04-13,General Surgery,Migraine,Observation,Dr. WS,172,MediCover,3172.53,Partially Paid,No
+PID10387,Patient_387,66,Female,2024-02-29,2024-03-02,Orthopedics,Asthma,Physiotherapy,Dr. XU,266,No Insurance,17313.12,Partially Paid,No
+PID10388,Patient_388,17,Male,2024-06-15,2024-06-16,Orthopedics,Diabetes,Surgery,Dr. YW,359,HealthSafe,16413.8,Pending,Yes
+PID10389,Patient_389,24,Other,2024-03-29,2024-04-10,Cardiology,Flu,Physiotherapy,Dr. ZY,342,InsureWell,19686.17,Pending,Yes
+PID10390,Patient_390,94,Male,2024-05-25,2024-05-28,General Surgery,Hypertension,Physiotherapy,Dr. AA,374,MediCover,18240.0,Pending,No
+PID10391,Patient_391,53,Other,2024-05-26,2024-06-02,Orthopedics,Hypertension,Medication,Dr. BC,201,InsureWell,17109.91,Paid,No
+PID10392,Patient_392,57,Female,2024-06-12,2024-06-25,Orthopedics,Migraine,Physiotherapy,Dr. CE,272,HealthSafe,1525.2,Paid,No
+PID10393,Patient_393,66,Other,2024-03-09,2024-03-22,Orthopedics,Diabetes,Medication,Dr. DG,270,HealthSafe,2536.1,Pending,No
+PID10394,Patient_394,45,Female,2024-06-23,2024-06-24,General Surgery,Diabetes,Medication,Dr. EI,240,InsureWell,11595.17,Paid,No
+PID10395,Patient_395,23,Other,2024-02-18,2024-02-20,General Surgery,Fracture,Observation,Dr. FK,496,MediCover,10863.85,Paid,Yes
+PID10396,Patient_396,31,Other,2024-04-17,2024-04-18,Cardiology,Diabetes,Medication,Dr. GM,287,HealthSafe,9430.28,Partially Paid,Yes
+PID10397,Patient_397,46,Other,2024-06-09,2024-06-17,Pediatrics,Migraine,Medication,Dr. HO,185,No Insurance,8237.39,Partially Paid,Yes
+PID10398,Patient_398,85,Male,2024-04-28,2024-05-03,Orthopedics,Fracture,Observation,Dr. IQ,151,HealthSafe,8908.6,Paid,Yes
+PID10399,Patient_399,22,Male,2024-05-28,2024-06-05,Pediatrics,Fracture,Physiotherapy,Dr. JS,210,MediCover,11601.31,Paid,No
+PID10400,Patient_400,65,Female,2024-05-29,2024-06-01,General Surgery,Hypertension,Surgery,Dr. KU,464,HealthSafe,540.49,Pending,Yes
+PID10401,Patient_401,26,Female,2024-06-24,2024-07-07,General Surgery,Hypertension,Surgery,Dr. LW,441,InsureWell,5583.82,Paid,Yes
+PID10402,Patient_402,1,Male,2024-02-06,2024-02-18,General Surgery,Diabetes,Surgery,Dr. MY,142,HealthSafe,10606.45,Partially Paid,Yes
+PID10403,Patient_403,89,Female,2024-05-22,2024-05-29,Pediatrics,Fracture,Physiotherapy,Dr. NA,310,HealthSafe,14583.21,Paid,No
+PID10404,Patient_404,16,Male,2024-06-11,2024-06-19,General Surgery,Hypertension,Medication,Dr. OC,299,MediCover,3896.06,Pending,Yes
+PID10405,Patient_405,32,Other,2024-06-08,2024-06-14,Cardiology,Migraine,Surgery,Dr. PE,397,InsureWell,11164.18,Partially Paid,No
+PID10406,Patient_406,8,Female,2024-01-11,2024-01-24,General Surgery,Hypertension,Physiotherapy,Dr. QG,445,MediCover,14431.96,Partially Paid,Yes
+PID10407,Patient_407,42,Female,2024-05-17,2024-05-30,Neurology,Asthma,Medication,Dr. RI,339,HealthSafe,9170.24,Partially Paid,No
+PID10408,Patient_408,47,Male,2024-03-18,2024-03-25,Pediatrics,Asthma,Observation,Dr. SK,214,No Insurance,1028.08,Partially Paid,Yes
+PID10409,Patient_409,38,Female,2024-03-17,2024-03-31,Neurology,Hypertension,Surgery,Dr. TM,125,HealthSafe,9260.73,Paid,No
+PID10410,Patient_410,92,Female,2024-06-01,2024-06-13,General Surgery,Fracture,Medication,Dr. UO,398,MediCover,6280.68,Pending,Yes
+PID10411,Patient_411,41,Other,2024-01-02,2024-01-04,Cardiology,Fracture,Surgery,Dr. VQ,176,No Insurance,18628.17,Paid,No
+PID10412,Patient_412,25,Female,2024-03-04,2024-03-12,Orthopedics,Flu,Surgery,Dr. WS,236,MediCover,2929.96,Paid,No
+PID10413,Patient_413,98,Other,2024-02-04,2024-02-09,General Surgery,Asthma,Surgery,Dr. XU,119,MediCover,13223.28,Partially Paid,Yes
+PID10414,Patient_414,49,Male,2024-01-07,2024-01-14,Cardiology,Migraine,Medication,Dr. YW,310,InsureWell,1528.04,Pending,No
+PID10415,Patient_415,24,Female,2024-03-25,2024-03-26,Pediatrics,Fracture,Physiotherapy,Dr. ZY,339,No Insurance,9200.32,Partially Paid,No
+PID10416,Patient_416,23,Other,2024-05-25,2024-05-30,Neurology,Diabetes,Medication,Dr. AA,138,HealthSafe,11302.6,Paid,Yes
+PID10417,Patient_417,12,Male,2024-03-07,2024-03-08,Neurology,Asthma,Surgery,Dr. BC,367,MediCover,6310.12,Paid,Yes
+PID10418,Patient_418,59,Female,2024-02-11,2024-02-23,Neurology,Migraine,Medication,Dr. CE,306,HealthSafe,9373.97,Partially Paid,No
+PID10419,Patient_419,6,Male,2024-04-27,2024-05-10,Pediatrics,Migraine,Observation,Dr. DG,366,InsureWell,3689.3,Paid,Yes
+PID10420,Patient_420,56,Female,2024-05-04,2024-05-12,Cardiology,Fracture,Physiotherapy,Dr. EI,253,InsureWell,6430.42,Paid,Yes
+PID10421,Patient_421,35,Male,2024-06-15,2024-06-19,Pediatrics,Migraine,Medication,Dr. FK,141,No Insurance,12611.57,Partially Paid,Yes
+PID10422,Patient_422,44,Male,2024-06-17,2024-06-21,Neurology,Fracture,Observation,Dr. GM,110,InsureWell,6385.1,Paid,No
+PID10423,Patient_423,19,Other,2024-01-24,2024-01-26,General Surgery,Hypertension,Physiotherapy,Dr. HO,393,InsureWell,18044.99,Pending,No
+PID10424,Patient_424,64,Male,2024-02-15,2024-02-20,Orthopedics,Asthma,Observation,Dr. IQ,197,HealthSafe,12753.94,Partially Paid,No
+PID10425,Patient_425,7,Female,2024-01-19,2024-01-20,Pediatrics,Flu,Physiotherapy,Dr. JS,374,InsureWell,9053.66,Pending,No
+PID10426,Patient_426,15,Female,2024-03-08,2024-03-17,Pediatrics,Hypertension,Medication,Dr. KU,489,InsureWell,1255.76,Paid,No
+PID10427,Patient_427,13,Other,2024-04-11,2024-04-16,Cardiology,Asthma,Observation,Dr. LW,471,MediCover,10241.19,Paid,No
+PID10428,Patient_428,75,Female,2024-02-11,2024-02-17,Cardiology,Fracture,Surgery,Dr. MY,329,InsureWell,15413.14,Partially Paid,No
+PID10429,Patient_429,86,Female,2024-02-01,2024-02-03,Pediatrics,Asthma,Observation,Dr. NA,468,MediCover,5678.37,Paid,Yes
+PID10430,Patient_430,14,Female,2024-06-15,2024-06-25,Neurology,Fracture,Physiotherapy,Dr. OC,319,InsureWell,16232.08,Partially Paid,No
+PID10431,Patient_431,91,Male,2024-04-18,2024-04-28,Orthopedics,Hypertension,Medication,Dr. PE,164,InsureWell,5410.23,Partially Paid,No
+PID10432,Patient_432,97,Male,2024-02-05,2024-02-06,Cardiology,Diabetes,Physiotherapy,Dr. QG,454,No Insurance,16563.05,Partially Paid,Yes
+PID10433,Patient_433,65,Female,2024-04-06,2024-04-10,Neurology,Diabetes,Observation,Dr. RI,331,No Insurance,2162.73,Partially Paid,Yes
+PID10434,Patient_434,31,Other,2024-06-12,2024-06-19,General Surgery,Asthma,Observation,Dr. SK,427,MediCover,17390.58,Partially Paid,Yes
+PID10435,Patient_435,86,Male,2024-05-10,2024-05-16,Cardiology,Diabetes,Surgery,Dr. TM,151,InsureWell,10234.14,Pending,No
+PID10436,Patient_436,62,Other,2024-03-13,2024-03-23,Neurology,Fracture,Medication,Dr. UO,473,HealthSafe,6282.48,Partially Paid,Yes
+PID10437,Patient_437,85,Female,2024-05-15,2024-05-16,Neurology,Migraine,Medication,Dr. VQ,475,No Insurance,5669.71,Pending,No
+PID10438,Patient_438,50,Female,2024-04-06,2024-04-07,Orthopedics,Fracture,Observation,Dr. WS,362,HealthSafe,8924.21,Paid,No
+PID10439,Patient_439,24,Male,2024-05-02,2024-05-10,Orthopedics,Migraine,Medication,Dr. XU,366,No Insurance,19981.47,Partially Paid,No
+PID10440,Patient_440,57,Female,2024-03-10,2024-03-14,General Surgery,Hypertension,Surgery,Dr. YW,458,No Insurance,4796.38,Paid,Yes
+PID10441,Patient_441,62,Male,2024-06-17,2024-06-22,Neurology,Flu,Physiotherapy,Dr. ZY,416,InsureWell,2512.72,Partially Paid,Yes
+PID10442,Patient_442,61,Female,2024-01-13,2024-01-26,Neurology,Migraine,Medication,Dr. AA,423,No Insurance,11908.19,Pending,No
+PID10443,Patient_443,21,Female,2024-02-18,2024-02-25,Orthopedics,Diabetes,Observation,Dr. BC,495,HealthSafe,10026.58,Pending,No
+PID10444,Patient_444,57,Male,2024-02-29,2024-03-08,Cardiology,Fracture,Physiotherapy,Dr. CE,253,No Insurance,10721.83,Pending,No
+PID10445,Patient_445,57,Male,2024-05-09,2024-05-19,Cardiology,Hypertension,Physiotherapy,Dr. DG,457,MediCover,13505.24,Paid,Yes
+PID10446,Patient_446,85,Male,2024-01-05,2024-01-12,Pediatrics,Diabetes,Surgery,Dr. EI,465,InsureWell,5709.31,Partially Paid,No
+PID10447,Patient_447,48,Female,2024-06-20,2024-06-22,Orthopedics,Hypertension,Observation,Dr. FK,239,InsureWell,18257.97,Paid,Yes
+PID10448,Patient_448,51,Female,2024-01-27,2024-02-10,Pediatrics,Flu,Medication,Dr. GM,150,MediCover,8995.61,Pending,No
+PID10449,Patient_449,41,Other,2024-06-08,2024-06-12,Orthopedics,Fracture,Observation,Dr. HO,216,MediCover,3017.18,Paid,Yes
+PID10450,Patient_450,69,Male,2024-05-28,2024-06-07,General Surgery,Asthma,Physiotherapy,Dr. IQ,145,MediCover,14974.83,Pending,No
+PID10451,Patient_451,14,Female,2024-01-08,2024-01-20,Neurology,Fracture,Observation,Dr. JS,408,No Insurance,13040.53,Pending,Yes
+PID10452,Patient_452,53,Female,2024-02-19,2024-02-20,General Surgery,Flu,Medication,Dr. KU,187,InsureWell,6657.0,Pending,Yes
+PID10453,Patient_453,59,Male,2024-03-07,2024-03-17,Orthopedics,Fracture,Medication,Dr. LW,307,MediCover,12619.62,Partially Paid,Yes
+PID10454,Patient_454,96,Other,2024-02-13,2024-02-22,Neurology,Asthma,Surgery,Dr. MY,476,No Insurance,4787.31,Partially Paid,Yes
+PID10455,Patient_455,7,Male,2024-05-04,2024-05-07,Cardiology,Migraine,Medication,Dr. NA,368,MediCover,9174.37,Pending,Yes
+PID10456,Patient_456,52,Other,2024-02-27,2024-03-10,Cardiology,Hypertension,Medication,Dr. OC,188,HealthSafe,18038.54,Paid,Yes
+PID10457,Patient_457,59,Female,2024-01-03,2024-01-06,Pediatrics,Asthma,Observation,Dr. PE,480,HealthSafe,3103.92,Paid,No
+PID10458,Patient_458,4,Other,2024-03-26,2024-04-05,Orthopedics,Diabetes,Observation,Dr. QG,217,InsureWell,8040.58,Partially Paid,No
+PID10459,Patient_459,67,Female,2024-03-10,2024-03-19,Orthopedics,Flu,Physiotherapy,Dr. RI,153,No Insurance,16512.28,Pending,No
+PID10460,Patient_460,5,Male,2024-05-09,2024-05-19,Cardiology,Migraine,Surgery,Dr. SK,215,HealthSafe,19405.07,Paid,No
+PID10461,Patient_461,95,Male,2024-06-20,2024-06-23,General Surgery,Diabetes,Observation,Dr. TM,217,HealthSafe,9351.56,Pending,Yes
+PID10462,Patient_462,93,Male,2024-01-02,2024-01-10,Neurology,Diabetes,Medication,Dr. UO,359,No Insurance,10386.49,Paid,No
+PID10463,Patient_463,46,Other,2024-04-11,2024-04-13,General Surgery,Flu,Physiotherapy,Dr. VQ,174,MediCover,11657.35,Partially Paid,Yes
+PID10464,Patient_464,98,Female,2024-02-04,2024-02-18,General Surgery,Migraine,Observation,Dr. WS,404,No Insurance,18680.79,Pending,Yes
+PID10465,Patient_465,54,Male,2024-04-07,2024-04-20,Cardiology,Diabetes,Surgery,Dr. XU,106,MediCover,17235.03,Pending,Yes
+PID10466,Patient_466,39,Male,2024-01-30,2024-02-02,Cardiology,Diabetes,Surgery,Dr. YW,465,HealthSafe,3826.72,Paid,No
+PID10467,Patient_467,51,Female,2024-04-25,2024-04-27,Cardiology,Migraine,Physiotherapy,Dr. ZY,221,HealthSafe,9016.78,Paid,Yes
+PID10468,Patient_468,15,Male,2024-01-08,2024-01-09,Pediatrics,Fracture,Physiotherapy,Dr. AA,110,HealthSafe,9548.01,Paid,No
+PID10469,Patient_469,12,Female,2024-05-29,2024-05-31,General Surgery,Diabetes,Physiotherapy,Dr. BC,447,InsureWell,15887.37,Pending,No
+PID10470,Patient_470,29,Female,2024-02-13,2024-02-21,Orthopedics,Hypertension,Physiotherapy,Dr. CE,314,InsureWell,12256.41,Partially Paid,No
+PID10471,Patient_471,18,Female,2024-02-05,2024-02-14,Neurology,Migraine,Physiotherapy,Dr. DG,378,InsureWell,13257.3,Partially Paid,No
+PID10472,Patient_472,16,Female,2024-03-17,2024-03-30,Pediatrics,Diabetes,Medication,Dr. EI,127,No Insurance,19964.9,Paid,No
+PID10473,Patient_473,62,Female,2024-01-31,2024-02-02,Orthopedics,Flu,Medication,Dr. FK,334,HealthSafe,1961.72,Partially Paid,Yes
+PID10474,Patient_474,18,Other,2024-02-16,2024-02-23,General Surgery,Asthma,Observation,Dr. GM,466,HealthSafe,4848.69,Paid,Yes
+PID10475,Patient_475,91,Male,2024-02-24,2024-02-29,Cardiology,Hypertension,Surgery,Dr. HO,412,No Insurance,8453.97,Partially Paid,No
+PID10476,Patient_476,57,Other,2024-04-15,2024-04-18,General Surgery,Asthma,Medication,Dr. IQ,125,InsureWell,7281.76,Pending,Yes
+PID10477,Patient_477,54,Male,2024-06-06,2024-06-15,Neurology,Asthma,Medication,Dr. JS,153,No Insurance,922.09,Paid,No
+PID10478,Patient_478,89,Other,2024-04-30,2024-05-06,Pediatrics,Diabetes,Medication,Dr. KU,128,InsureWell,2289.66,Partially Paid,Yes
+PID10479,Patient_479,89,Female,2024-02-24,2024-03-06,Pediatrics,Hypertension,Observation,Dr. LW,452,HealthSafe,13778.59,Pending,Yes
+PID10480,Patient_480,61,Male,2024-05-23,2024-05-24,Neurology,Hypertension,Physiotherapy,Dr. MY,263,MediCover,17646.83,Partially Paid,Yes
+PID10481,Patient_481,22,Male,2024-01-12,2024-01-17,Orthopedics,Fracture,Observation,Dr. NA,369,InsureWell,10527.43,Pending,Yes
+PID10482,Patient_482,8,Other,2024-05-24,2024-05-31,Orthopedics,Asthma,Surgery,Dr. OC,433,HealthSafe,11014.23,Pending,Yes
+PID10483,Patient_483,11,Other,2024-05-23,2024-05-27,Pediatrics,Hypertension,Surgery,Dr. PE,134,HealthSafe,5474.32,Partially Paid,Yes
+PID10484,Patient_484,0,Male,2024-05-19,2024-05-27,Pediatrics,Fracture,Surgery,Dr. QG,385,MediCover,15473.59,Partially Paid,Yes
+PID10485,Patient_485,57,Other,2024-05-15,2024-05-25,Cardiology,Migraine,Surgery,Dr. RI,447,HealthSafe,15159.99,Pending,Yes
+PID10486,Patient_486,0,Other,2024-01-03,2024-01-08,Orthopedics,Fracture,Medication,Dr. SK,372,HealthSafe,11973.13,Pending,Yes
+PID10487,Patient_487,33,Other,2024-05-23,2024-06-01,Neurology,Flu,Medication,Dr. TM,307,InsureWell,4646.95,Pending,Yes
+PID10488,Patient_488,95,Female,2024-01-30,2024-02-08,Orthopedics,Diabetes,Observation,Dr. UO,337,InsureWell,2391.86,Paid,Yes
+PID10489,Patient_489,47,Female,2024-01-23,2024-02-01,Cardiology,Migraine,Physiotherapy,Dr. VQ,192,MediCover,1752.65,Pending,Yes
+PID10490,Patient_490,88,Other,2024-04-01,2024-04-02,Pediatrics,Migraine,Surgery,Dr. WS,272,MediCover,12057.57,Paid,Yes
+PID10491,Patient_491,0,Other,2024-04-24,2024-04-26,Pediatrics,Flu,Observation,Dr. XU,178,HealthSafe,16588.19,Pending,No
+PID10492,Patient_492,15,Female,2024-04-13,2024-04-16,Cardiology,Fracture,Medication,Dr. YW,209,InsureWell,17237.44,Paid,Yes
+PID10493,Patient_493,60,Female,2024-04-27,2024-05-11,Neurology,Diabetes,Medication,Dr. ZY,316,MediCover,9540.63,Pending,Yes
+PID10494,Patient_494,63,Male,2024-01-05,2024-01-09,Pediatrics,Fracture,Physiotherapy,Dr. AA,457,MediCover,15793.29,Pending,Yes
+PID10495,Patient_495,62,Male,2024-04-13,2024-04-23,General Surgery,Hypertension,Physiotherapy,Dr. BC,205,No Insurance,18964.16,Pending,Yes
+PID10496,Patient_496,68,Female,2024-04-17,2024-04-26,Pediatrics,Fracture,Physiotherapy,Dr. CE,146,MediCover,5865.82,Partially Paid,Yes
+PID10497,Patient_497,21,Other,2024-03-05,2024-03-15,General Surgery,Migraine,Observation,Dr. DG,280,HealthSafe,8260.23,Partially Paid,Yes
+PID10498,Patient_498,92,Other,2024-04-30,2024-05-13,Cardiology,Diabetes,Medication,Dr. EI,163,InsureWell,18663.84,Pending,No
+PID10499,Patient_499,66,Other,2024-01-30,2024-02-05,Cardiology,Fracture,Medication,Dr. FK,345,MediCover,7095.5,Paid,No
+PID10500,Patient_500,75,Other,2024-05-28,2024-05-29,Pediatrics,Diabetes,Physiotherapy,Dr. GM,343,No Insurance,18320.59,Paid,No
+PID10501,Patient_501,25,Male,2024-03-24,2024-04-05,Orthopedics,Diabetes,Surgery,Dr. HO,419,InsureWell,19630.37,Pending,Yes
+PID10502,Patient_502,15,Female,2024-05-29,2024-06-07,General Surgery,Hypertension,Physiotherapy,Dr. IQ,186,MediCover,13405.31,Partially Paid,Yes
+PID10503,Patient_503,50,Other,2024-02-01,2024-02-07,Neurology,Hypertension,Observation,Dr. JS,316,No Insurance,16429.36,Paid,Yes
+PID10504,Patient_504,85,Male,2024-06-09,2024-06-13,Pediatrics,Migraine,Physiotherapy,Dr. KU,106,MediCover,15116.14,Partially Paid,No
+PID10505,Patient_505,56,Other,2024-01-16,2024-01-30,Neurology,Flu,Physiotherapy,Dr. LW,377,InsureWell,14140.92,Paid,Yes
+PID10506,Patient_506,28,Female,2024-02-07,2024-02-11,Pediatrics,Diabetes,Observation,Dr. MY,436,InsureWell,6485.16,Pending,Yes
+PID10507,Patient_507,77,Male,2024-05-21,2024-05-24,Orthopedics,Flu,Physiotherapy,Dr. NA,309,InsureWell,1613.34,Partially Paid,No
+PID10508,Patient_508,91,Female,2024-02-05,2024-02-12,Orthopedics,Migraine,Medication,Dr. OC,268,HealthSafe,7189.51,Paid,No
+PID10509,Patient_509,68,Female,2024-05-30,2024-06-02,Orthopedics,Diabetes,Surgery,Dr. PE,429,MediCover,13505.25,Pending,Yes
+PID10510,Patient_510,46,Male,2024-04-23,2024-04-25,Orthopedics,Diabetes,Physiotherapy,Dr. QG,237,HealthSafe,2499.32,Pending,Yes
+PID10511,Patient_511,93,Male,2024-03-06,2024-03-16,Cardiology,Asthma,Observation,Dr. RI,490,InsureWell,732.4,Pending,Yes
+PID10512,Patient_512,61,Male,2024-04-14,2024-04-22,Cardiology,Flu,Surgery,Dr. SK,480,No Insurance,3224.0,Partially Paid,Yes
+PID10513,Patient_513,68,Male,2024-03-25,2024-03-29,General Surgery,Fracture,Observation,Dr. TM,405,MediCover,14456.85,Partially Paid,No
+PID10514,Patient_514,75,Male,2024-01-02,2024-01-10,Neurology,Hypertension,Surgery,Dr. UO,329,HealthSafe,19469.48,Pending,Yes
+PID10515,Patient_515,15,Male,2024-03-15,2024-03-16,Pediatrics,Fracture,Surgery,Dr. VQ,407,MediCover,19669.76,Partially Paid,Yes
+PID10516,Patient_516,89,Male,2024-03-07,2024-03-12,Pediatrics,Flu,Physiotherapy,Dr. WS,260,No Insurance,10132.59,Paid,No
+PID10517,Patient_517,89,Other,2024-06-28,2024-07-11,Cardiology,Hypertension,Medication,Dr. XU,100,HealthSafe,17452.37,Pending,Yes
+PID10518,Patient_518,47,Female,2024-05-30,2024-06-08,Pediatrics,Fracture,Physiotherapy,Dr. YW,335,InsureWell,14868.12,Pending,Yes
+PID10519,Patient_519,84,Male,2024-06-02,2024-06-03,Cardiology,Asthma,Observation,Dr. ZY,287,HealthSafe,10270.28,Partially Paid,No
+PID10520,Patient_520,38,Other,2024-02-24,2024-03-06,General Surgery,Hypertension,Observation,Dr. AA,103,MediCover,11668.83,Pending,No
+PID10521,Patient_521,99,Other,2024-01-06,2024-01-19,Neurology,Diabetes,Surgery,Dr. BC,231,MediCover,3175.93,Paid,Yes
+PID10522,Patient_522,32,Other,2024-06-11,2024-06-15,General Surgery,Fracture,Surgery,Dr. CE,317,MediCover,18784.4,Partially Paid,No
+PID10523,Patient_523,93,Female,2024-05-29,2024-06-04,Orthopedics,Hypertension,Medication,Dr. DG,359,MediCover,7362.63,Partially Paid,No
+PID10524,Patient_524,22,Male,2024-06-19,2024-06-29,Orthopedics,Asthma,Physiotherapy,Dr. EI,100,InsureWell,9199.91,Pending,Yes
+PID10525,Patient_525,9,Other,2024-05-22,2024-05-30,Orthopedics,Hypertension,Observation,Dr. FK,170,HealthSafe,13597.37,Pending,No
+PID10526,Patient_526,68,Female,2024-03-26,2024-04-09,General Surgery,Hypertension,Surgery,Dr. GM,277,InsureWell,7011.1,Pending,Yes
+PID10527,Patient_527,99,Female,2024-02-29,2024-03-03,Pediatrics,Asthma,Medication,Dr. HO,288,InsureWell,5458.05,Partially Paid,Yes
+PID10528,Patient_528,33,Female,2024-04-10,2024-04-15,Neurology,Fracture,Observation,Dr. IQ,390,InsureWell,12805.46,Pending,Yes
+PID10529,Patient_529,51,Other,2024-01-12,2024-01-19,Orthopedics,Migraine,Surgery,Dr. JS,107,MediCover,987.19,Paid,Yes
+PID10530,Patient_530,94,Male,2024-02-18,2024-02-19,Orthopedics,Fracture,Observation,Dr. KU,352,MediCover,14554.14,Pending,No
+PID10531,Patient_531,9,Other,2024-02-11,2024-02-18,Orthopedics,Flu,Medication,Dr. LW,391,MediCover,10523.46,Pending,Yes
+PID10532,Patient_532,18,Other,2024-06-14,2024-06-27,Neurology,Asthma,Medication,Dr. MY,343,HealthSafe,12312.2,Partially Paid,Yes
+PID10533,Patient_533,57,Male,2024-03-22,2024-04-03,Orthopedics,Fracture,Observation,Dr. NA,222,No Insurance,12821.66,Pending,Yes
+PID10534,Patient_534,95,Male,2024-06-21,2024-07-02,Neurology,Hypertension,Physiotherapy,Dr. OC,398,MediCover,10777.48,Partially Paid,Yes
+PID10535,Patient_535,0,Male,2024-02-04,2024-02-12,Orthopedics,Asthma,Observation,Dr. PE,382,HealthSafe,11859.41,Pending,No
+PID10536,Patient_536,68,Female,2024-06-06,2024-06-14,General Surgery,Diabetes,Surgery,Dr. QG,131,MediCover,13833.87,Paid,No
+PID10537,Patient_537,3,Male,2024-06-06,2024-06-15,General Surgery,Fracture,Physiotherapy,Dr. RI,433,MediCover,15185.82,Paid,No
+PID10538,Patient_538,15,Other,2024-05-13,2024-05-19,Neurology,Asthma,Surgery,Dr. SK,476,InsureWell,14685.32,Partially Paid,Yes
+PID10539,Patient_539,23,Male,2024-03-07,2024-03-19,General Surgery,Fracture,Observation,Dr. TM,245,InsureWell,17457.52,Partially Paid,No
+PID10540,Patient_540,79,Other,2024-03-20,2024-03-26,Neurology,Asthma,Physiotherapy,Dr. UO,255,InsureWell,4194.15,Pending,No
+PID10541,Patient_541,1,Female,2024-01-07,2024-01-09,General Surgery,Hypertension,Surgery,Dr. VQ,115,HealthSafe,8322.39,Pending,Yes
+PID10542,Patient_542,91,Other,2024-06-28,2024-07-01,General Surgery,Diabetes,Observation,Dr. WS,454,No Insurance,18982.02,Paid,No
+PID10543,Patient_543,31,Other,2024-01-14,2024-01-18,Neurology,Diabetes,Observation,Dr. XU,146,No Insurance,8233.52,Pending,Yes
+PID10544,Patient_544,90,Male,2024-03-13,2024-03-17,Pediatrics,Flu,Physiotherapy,Dr. YW,350,HealthSafe,2934.97,Paid,No
+PID10545,Patient_545,83,Male,2024-05-22,2024-05-30,General Surgery,Asthma,Observation,Dr. ZY,286,MediCover,10746.18,Partially Paid,No
+PID10546,Patient_546,23,Other,2024-05-28,2024-06-11,Orthopedics,Fracture,Medication,Dr. AA,130,HealthSafe,2635.07,Pending,No
+PID10547,Patient_547,11,Male,2024-06-11,2024-06-12,Pediatrics,Diabetes,Surgery,Dr. BC,359,MediCover,4455.64,Partially Paid,No
+PID10548,Patient_548,49,Female,2024-03-06,2024-03-16,Neurology,Diabetes,Surgery,Dr. CE,116,HealthSafe,19967.22,Pending,Yes
+PID10549,Patient_549,34,Female,2024-03-31,2024-04-14,Pediatrics,Migraine,Observation,Dr. DG,138,HealthSafe,11056.57,Paid,Yes
+PID10550,Patient_550,32,Male,2024-05-09,2024-05-13,Cardiology,Migraine,Observation,Dr. EI,403,HealthSafe,6039.14,Partially Paid,No
+PID10551,Patient_551,32,Female,2024-06-11,2024-06-22,Cardiology,Diabetes,Medication,Dr. FK,138,No Insurance,19898.11,Partially Paid,Yes
+PID10552,Patient_552,60,Male,2024-01-20,2024-02-01,General Surgery,Asthma,Physiotherapy,Dr. GM,231,InsureWell,19347.9,Pending,No
+PID10553,Patient_553,50,Other,2024-01-10,2024-01-23,General Surgery,Flu,Observation,Dr. HO,129,HealthSafe,9094.41,Partially Paid,No
+PID10554,Patient_554,42,Other,2024-01-25,2024-02-05,Orthopedics,Diabetes,Observation,Dr. IQ,257,No Insurance,5577.86,Paid,No
+PID10555,Patient_555,11,Female,2024-01-25,2024-02-05,Pediatrics,Hypertension,Observation,Dr. JS,377,InsureWell,16848.79,Partially Paid,No
+PID10556,Patient_556,66,Male,2024-02-23,2024-02-27,Cardiology,Fracture,Observation,Dr. KU,302,InsureWell,14454.6,Partially Paid,No
+PID10557,Patient_557,64,Male,2024-02-02,2024-02-03,General Surgery,Flu,Surgery,Dr. LW,165,HealthSafe,13895.36,Pending,No
+PID10558,Patient_558,32,Female,2024-06-12,2024-06-15,Pediatrics,Hypertension,Observation,Dr. MY,207,MediCover,17915.72,Partially Paid,Yes
+PID10559,Patient_559,39,Other,2024-04-04,2024-04-09,General Surgery,Flu,Surgery,Dr. NA,367,MediCover,13943.63,Pending,Yes
+PID10560,Patient_560,73,Female,2024-01-14,2024-01-20,General Surgery,Hypertension,Observation,Dr. OC,321,MediCover,6034.06,Pending,No
+PID10561,Patient_561,42,Other,2024-03-05,2024-03-14,Cardiology,Fracture,Physiotherapy,Dr. PE,391,HealthSafe,14030.33,Partially Paid,Yes
+PID10562,Patient_562,43,Male,2024-04-19,2024-04-28,Cardiology,Fracture,Medication,Dr. QG,117,MediCover,6463.36,Paid,No
+PID10563,Patient_563,28,Other,2024-03-20,2024-03-29,General Surgery,Migraine,Physiotherapy,Dr. RI,189,No Insurance,15305.16,Pending,Yes
+PID10564,Patient_564,12,Female,2024-02-23,2024-03-05,Neurology,Asthma,Observation,Dr. SK,280,No Insurance,12585.08,Partially Paid,Yes
+PID10565,Patient_565,11,Male,2024-05-04,2024-05-05,General Surgery,Hypertension,Observation,Dr. TM,354,No Insurance,2009.53,Pending,Yes
+PID10566,Patient_566,94,Female,2024-06-28,2024-07-10,General Surgery,Migraine,Observation,Dr. UO,352,No Insurance,10500.29,Paid,No
+PID10567,Patient_567,45,Female,2024-05-10,2024-05-19,Orthopedics,Hypertension,Physiotherapy,Dr. VQ,356,InsureWell,7194.37,Paid,Yes
+PID10568,Patient_568,1,Other,2024-06-17,2024-06-30,Orthopedics,Migraine,Observation,Dr. WS,482,No Insurance,6907.13,Pending,No
+PID10569,Patient_569,34,Female,2024-05-13,2024-05-21,Orthopedics,Fracture,Physiotherapy,Dr. XU,445,MediCover,12244.0,Paid,No
+PID10570,Patient_570,86,Other,2024-01-25,2024-01-27,Neurology,Flu,Surgery,Dr. YW,186,HealthSafe,6785.33,Partially Paid,No
+PID10571,Patient_571,80,Male,2024-05-20,2024-06-02,Neurology,Migraine,Medication,Dr. ZY,189,MediCover,15649.43,Partially Paid,Yes
+PID10572,Patient_572,89,Other,2024-04-26,2024-05-07,General Surgery,Hypertension,Medication,Dr. AA,336,No Insurance,1880.43,Pending,Yes
+PID10573,Patient_573,7,Male,2024-05-15,2024-05-16,Orthopedics,Hypertension,Physiotherapy,Dr. BC,489,InsureWell,13377.57,Paid,Yes
+PID10574,Patient_574,92,Other,2024-05-28,2024-05-29,Neurology,Asthma,Surgery,Dr. CE,169,No Insurance,16279.3,Partially Paid,No
+PID10575,Patient_575,25,Female,2024-01-25,2024-02-06,Cardiology,Fracture,Physiotherapy,Dr. DG,143,HealthSafe,13620.22,Partially Paid,No
+PID10576,Patient_576,73,Other,2024-03-19,2024-03-25,General Surgery,Hypertension,Surgery,Dr. EI,299,MediCover,10195.97,Partially Paid,Yes
+PID10577,Patient_577,89,Other,2024-03-08,2024-03-17,Pediatrics,Diabetes,Observation,Dr. FK,251,HealthSafe,19030.99,Pending,No
+PID10578,Patient_578,33,Male,2024-06-21,2024-06-28,General Surgery,Flu,Surgery,Dr. GM,185,HealthSafe,6348.8,Pending,Yes
+PID10579,Patient_579,6,Female,2024-01-12,2024-01-17,Pediatrics,Migraine,Surgery,Dr. HO,118,HealthSafe,873.77,Partially Paid,Yes
+PID10580,Patient_580,67,Other,2024-02-01,2024-02-12,Orthopedics,Asthma,Surgery,Dr. IQ,200,MediCover,8923.79,Partially Paid,Yes
+PID10581,Patient_581,57,Female,2024-05-07,2024-05-09,Pediatrics,Flu,Medication,Dr. JS,194,No Insurance,1143.73,Paid,Yes
+PID10582,Patient_582,74,Other,2024-04-05,2024-04-06,Orthopedics,Fracture,Surgery,Dr. KU,353,HealthSafe,19101.77,Paid,No
+PID10583,Patient_583,28,Other,2024-04-01,2024-04-03,Cardiology,Asthma,Observation,Dr. LW,456,MediCover,4593.4,Paid,Yes
+PID10584,Patient_584,35,Female,2024-05-20,2024-05-21,Pediatrics,Migraine,Observation,Dr. MY,129,InsureWell,15884.08,Pending,Yes
+PID10585,Patient_585,88,Other,2024-01-31,2024-02-03,General Surgery,Migraine,Observation,Dr. NA,348,MediCover,15604.16,Partially Paid,Yes
+PID10586,Patient_586,20,Female,2024-03-18,2024-03-24,Orthopedics,Diabetes,Surgery,Dr. OC,132,InsureWell,4745.71,Pending,Yes
+PID10587,Patient_587,35,Other,2024-01-20,2024-02-02,General Surgery,Fracture,Physiotherapy,Dr. PE,328,MediCover,12613.92,Partially Paid,Yes
+PID10588,Patient_588,9,Male,2024-05-25,2024-06-02,Neurology,Asthma,Physiotherapy,Dr. QG,111,No Insurance,1437.54,Paid,Yes
+PID10589,Patient_589,72,Female,2024-02-29,2024-03-03,Orthopedics,Asthma,Observation,Dr. RI,217,HealthSafe,9929.7,Paid,Yes
+PID10590,Patient_590,23,Other,2024-05-13,2024-05-23,Pediatrics,Hypertension,Medication,Dr. SK,449,No Insurance,785.62,Paid,No
+PID10591,Patient_591,63,Other,2024-06-08,2024-06-17,Orthopedics,Diabetes,Physiotherapy,Dr. TM,254,MediCover,18462.31,Paid,No
+PID10592,Patient_592,98,Male,2024-04-02,2024-04-12,General Surgery,Diabetes,Surgery,Dr. UO,492,HealthSafe,19533.68,Partially Paid,No
+PID10593,Patient_593,48,Female,2024-02-12,2024-02-17,Cardiology,Asthma,Physiotherapy,Dr. VQ,345,InsureWell,4834.51,Paid,No
+PID10594,Patient_594,98,Other,2024-05-09,2024-05-16,Orthopedics,Asthma,Observation,Dr. WS,431,MediCover,4558.07,Partially Paid,Yes
+PID10595,Patient_595,35,Male,2024-02-29,2024-03-08,Pediatrics,Flu,Medication,Dr. XU,346,HealthSafe,15197.54,Partially Paid,No
+PID10596,Patient_596,81,Other,2024-05-30,2024-06-02,Neurology,Flu,Physiotherapy,Dr. YW,128,InsureWell,5440.9,Pending,No
+PID10597,Patient_597,95,Female,2024-01-31,2024-02-02,Cardiology,Flu,Physiotherapy,Dr. ZY,260,InsureWell,17953.99,Paid,No
+PID10598,Patient_598,23,Other,2024-01-05,2024-01-07,Neurology,Diabetes,Observation,Dr. AA,334,No Insurance,11691.62,Paid,Yes
+PID10599,Patient_599,22,Other,2024-06-10,2024-06-15,Orthopedics,Hypertension,Medication,Dr. BC,289,MediCover,7340.16,Pending,No
+PID10600,Patient_600,61,Other,2024-01-10,2024-01-11,General Surgery,Migraine,Medication,Dr. CE,216,InsureWell,16737.53,Partially Paid,No
+PID10601,Patient_601,95,Other,2024-03-29,2024-03-31,General Surgery,Flu,Observation,Dr. DG,370,HealthSafe,10121.43,Paid,Yes
+PID10602,Patient_602,36,Male,2024-05-09,2024-05-22,Pediatrics,Hypertension,Surgery,Dr. EI,357,InsureWell,18276.84,Partially Paid,No
+PID10603,Patient_603,11,Male,2024-05-05,2024-05-14,General Surgery,Fracture,Physiotherapy,Dr. FK,279,InsureWell,18596.28,Pending,Yes
+PID10604,Patient_604,54,Female,2024-01-11,2024-01-18,Cardiology,Flu,Surgery,Dr. GM,472,No Insurance,3725.69,Partially Paid,No
+PID10605,Patient_605,12,Male,2024-06-26,2024-07-02,General Surgery,Migraine,Physiotherapy,Dr. HO,271,No Insurance,545.31,Paid,Yes
+PID10606,Patient_606,22,Male,2024-06-07,2024-06-16,Pediatrics,Fracture,Physiotherapy,Dr. IQ,373,HealthSafe,19686.65,Partially Paid,No
+PID10607,Patient_607,88,Female,2024-02-25,2024-03-03,Orthopedics,Fracture,Surgery,Dr. JS,358,No Insurance,18169.68,Partially Paid,No
+PID10608,Patient_608,98,Male,2024-03-23,2024-04-06,Orthopedics,Migraine,Observation,Dr. KU,234,InsureWell,1581.18,Paid,No
+PID10609,Patient_609,29,Male,2024-05-16,2024-05-27,General Surgery,Flu,Observation,Dr. LW,270,InsureWell,16744.17,Paid,Yes
+PID10610,Patient_610,16,Female,2024-04-08,2024-04-13,Neurology,Diabetes,Physiotherapy,Dr. MY,309,No Insurance,9427.2,Partially Paid,No
+PID10611,Patient_611,61,Female,2024-05-28,2024-06-06,Orthopedics,Migraine,Observation,Dr. NA,335,InsureWell,5549.75,Partially Paid,Yes
+PID10612,Patient_612,83,Female,2024-03-13,2024-03-19,General Surgery,Migraine,Physiotherapy,Dr. OC,285,InsureWell,17635.56,Pending,Yes
+PID10613,Patient_613,88,Other,2024-06-04,2024-06-10,Pediatrics,Migraine,Observation,Dr. PE,463,HealthSafe,4335.01,Paid,Yes
+PID10614,Patient_614,85,Other,2024-04-24,2024-05-05,General Surgery,Fracture,Physiotherapy,Dr. QG,194,No Insurance,18972.35,Partially Paid,Yes
+PID10615,Patient_615,12,Female,2024-01-07,2024-01-11,Orthopedics,Hypertension,Observation,Dr. RI,477,InsureWell,4509.62,Paid,No
+PID10616,Patient_616,58,Female,2024-03-20,2024-04-02,Pediatrics,Diabetes,Medication,Dr. SK,110,No Insurance,12466.82,Pending,No
+PID10617,Patient_617,18,Female,2024-05-23,2024-06-04,General Surgery,Flu,Surgery,Dr. TM,167,HealthSafe,4850.18,Partially Paid,No
+PID10618,Patient_618,48,Other,2024-04-06,2024-04-07,Cardiology,Flu,Medication,Dr. UO,478,No Insurance,11140.54,Partially Paid,Yes
+PID10619,Patient_619,99,Other,2024-01-04,2024-01-09,Pediatrics,Hypertension,Surgery,Dr. VQ,309,InsureWell,13837.52,Partially Paid,No
+PID10620,Patient_620,11,Male,2024-01-04,2024-01-15,Cardiology,Migraine,Surgery,Dr. WS,295,No Insurance,4209.44,Paid,Yes
+PID10621,Patient_621,60,Male,2024-04-12,2024-04-21,Neurology,Diabetes,Physiotherapy,Dr. XU,468,InsureWell,10657.27,Pending,Yes
+PID10622,Patient_622,18,Female,2024-02-09,2024-02-22,Pediatrics,Flu,Surgery,Dr. YW,197,InsureWell,9646.67,Paid,Yes
+PID10623,Patient_623,75,Other,2024-01-17,2024-01-25,Cardiology,Asthma,Medication,Dr. ZY,192,InsureWell,1885.23,Partially Paid,No
+PID10624,Patient_624,8,Other,2024-04-10,2024-04-18,Orthopedics,Flu,Medication,Dr. AA,121,HealthSafe,16457.0,Pending,No
+PID10625,Patient_625,70,Other,2024-04-12,2024-04-17,Orthopedics,Migraine,Observation,Dr. BC,271,No Insurance,7045.81,Partially Paid,Yes
+PID10626,Patient_626,27,Female,2024-05-03,2024-05-15,Neurology,Asthma,Medication,Dr. CE,482,HealthSafe,11704.35,Partially Paid,No
+PID10627,Patient_627,77,Male,2024-02-21,2024-03-01,Pediatrics,Hypertension,Observation,Dr. DG,233,No Insurance,10538.29,Paid,No
+PID10628,Patient_628,94,Female,2024-02-21,2024-02-24,Pediatrics,Diabetes,Surgery,Dr. EI,124,HealthSafe,10508.58,Partially Paid,Yes
+PID10629,Patient_629,51,Male,2024-06-12,2024-06-15,Pediatrics,Hypertension,Medication,Dr. FK,284,MediCover,2590.84,Pending,Yes
+PID10630,Patient_630,82,Male,2024-05-03,2024-05-04,Neurology,Hypertension,Surgery,Dr. GM,184,InsureWell,8757.9,Partially Paid,No
+PID10631,Patient_631,15,Female,2024-06-14,2024-06-23,Pediatrics,Diabetes,Medication,Dr. HO,154,InsureWell,9321.15,Partially Paid,Yes
+PID10632,Patient_632,68,Male,2024-06-26,2024-07-02,Orthopedics,Diabetes,Medication,Dr. IQ,350,HealthSafe,14806.04,Paid,Yes
+PID10633,Patient_633,98,Male,2024-03-03,2024-03-05,Cardiology,Flu,Observation,Dr. JS,243,MediCover,16880.37,Pending,No
+PID10634,Patient_634,11,Other,2024-04-25,2024-05-03,Orthopedics,Flu,Surgery,Dr. KU,450,InsureWell,11127.15,Paid,No
+PID10635,Patient_635,24,Male,2024-03-02,2024-03-14,Orthopedics,Diabetes,Medication,Dr. LW,497,No Insurance,2192.27,Partially Paid,Yes
+PID10636,Patient_636,51,Female,2024-01-07,2024-01-16,Cardiology,Asthma,Physiotherapy,Dr. MY,266,HealthSafe,5118.56,Paid,No
+PID10637,Patient_637,84,Female,2024-06-03,2024-06-12,Orthopedics,Fracture,Surgery,Dr. NA,323,InsureWell,3716.21,Paid,Yes
+PID10638,Patient_638,99,Male,2024-04-01,2024-04-03,Neurology,Flu,Surgery,Dr. OC,319,InsureWell,2929.99,Paid,Yes
+PID10639,Patient_639,52,Other,2024-01-14,2024-01-16,Cardiology,Fracture,Surgery,Dr. PE,278,HealthSafe,7635.04,Paid,No
+PID10640,Patient_640,22,Other,2024-03-26,2024-04-08,Orthopedics,Asthma,Observation,Dr. QG,218,HealthSafe,4973.17,Partially Paid,Yes
+PID10641,Patient_641,15,Male,2024-05-12,2024-05-19,General Surgery,Diabetes,Physiotherapy,Dr. RI,364,No Insurance,4756.91,Partially Paid,Yes
+PID10642,Patient_642,56,Male,2024-05-09,2024-05-20,Orthopedics,Asthma,Surgery,Dr. SK,249,No Insurance,1566.52,Pending,Yes
+PID10643,Patient_643,38,Female,2024-03-02,2024-03-06,Neurology,Flu,Medication,Dr. TM,314,InsureWell,844.57,Paid,No
+PID10644,Patient_644,52,Male,2024-05-28,2024-06-10,Pediatrics,Hypertension,Medication,Dr. UO,296,InsureWell,2503.98,Paid,No
+PID10645,Patient_645,41,Other,2024-03-19,2024-03-20,Orthopedics,Diabetes,Observation,Dr. VQ,141,HealthSafe,3857.85,Pending,No
+PID10646,Patient_646,57,Male,2024-05-28,2024-06-05,Pediatrics,Migraine,Medication,Dr. WS,152,InsureWell,8904.18,Paid,Yes
+PID10647,Patient_647,38,Female,2024-05-17,2024-05-19,General Surgery,Fracture,Surgery,Dr. XU,429,InsureWell,10455.15,Pending,Yes
+PID10648,Patient_648,13,Female,2024-02-27,2024-03-12,Orthopedics,Asthma,Medication,Dr. YW,350,HealthSafe,3241.54,Partially Paid,No
+PID10649,Patient_649,94,Female,2024-04-29,2024-05-02,Cardiology,Diabetes,Surgery,Dr. ZY,394,InsureWell,8783.28,Pending,No
+PID10650,Patient_650,4,Female,2024-06-15,2024-06-20,Pediatrics,Asthma,Medication,Dr. AA,477,InsureWell,7164.1,Paid,No
+PID10651,Patient_651,34,Female,2024-05-12,2024-05-26,General Surgery,Diabetes,Physiotherapy,Dr. BC,370,MediCover,4076.76,Pending,Yes
+PID10652,Patient_652,86,Male,2024-03-05,2024-03-08,Cardiology,Flu,Observation,Dr. CE,222,No Insurance,633.39,Partially Paid,No
+PID10653,Patient_653,92,Male,2024-01-13,2024-01-20,Cardiology,Flu,Observation,Dr. DG,466,HealthSafe,9606.85,Paid,Yes
+PID10654,Patient_654,74,Male,2024-03-22,2024-03-29,Cardiology,Flu,Physiotherapy,Dr. EI,486,MediCover,13870.21,Partially Paid,No
+PID10655,Patient_655,17,Male,2024-06-21,2024-07-05,Cardiology,Asthma,Physiotherapy,Dr. FK,438,No Insurance,4912.41,Partially Paid,Yes
+PID10656,Patient_656,75,Female,2024-06-08,2024-06-10,Orthopedics,Migraine,Observation,Dr. GM,365,No Insurance,3070.23,Pending,Yes
+PID10657,Patient_657,8,Other,2024-06-12,2024-06-25,Orthopedics,Flu,Physiotherapy,Dr. HO,447,No Insurance,17797.33,Partially Paid,No
+PID10658,Patient_658,73,Male,2024-05-18,2024-05-31,Orthopedics,Diabetes,Surgery,Dr. IQ,128,MediCover,5862.98,Paid,Yes
+PID10659,Patient_659,57,Other,2024-05-28,2024-06-04,General Surgery,Flu,Medication,Dr. JS,134,MediCover,4860.45,Partially Paid,No
+PID10660,Patient_660,16,Male,2024-02-21,2024-03-03,General Surgery,Hypertension,Observation,Dr. KU,105,No Insurance,17213.39,Partially Paid,Yes
+PID10661,Patient_661,6,Male,2024-04-26,2024-05-02,General Surgery,Flu,Physiotherapy,Dr. LW,495,InsureWell,16433.59,Pending,Yes
+PID10662,Patient_662,45,Other,2024-01-26,2024-02-05,Neurology,Asthma,Surgery,Dr. MY,210,InsureWell,9242.76,Partially Paid,No
+PID10663,Patient_663,12,Female,2024-02-03,2024-02-12,General Surgery,Migraine,Observation,Dr. NA,393,MediCover,10040.16,Pending,Yes
+PID10664,Patient_664,39,Male,2024-02-21,2024-03-05,Orthopedics,Hypertension,Physiotherapy,Dr. OC,176,MediCover,4746.1,Pending,No
+PID10665,Patient_665,41,Male,2024-04-21,2024-04-30,Orthopedics,Asthma,Observation,Dr. PE,448,MediCover,2026.88,Paid,No
+PID10666,Patient_666,8,Male,2024-03-22,2024-03-24,Neurology,Asthma,Physiotherapy,Dr. QG,246,No Insurance,11681.92,Paid,No
+PID10667,Patient_667,49,Other,2024-06-28,2024-07-05,Neurology,Asthma,Observation,Dr. RI,166,InsureWell,2417.73,Paid,Yes
+PID10668,Patient_668,26,Female,2024-06-05,2024-06-10,General Surgery,Diabetes,Surgery,Dr. SK,491,MediCover,9260.85,Paid,Yes
+PID10669,Patient_669,65,Other,2024-06-14,2024-06-27,Pediatrics,Asthma,Surgery,Dr. TM,107,MediCover,18839.7,Pending,Yes
+PID10670,Patient_670,4,Other,2024-02-11,2024-02-17,Neurology,Diabetes,Medication,Dr. UO,221,HealthSafe,19080.27,Partially Paid,No
+PID10671,Patient_671,28,Female,2024-01-21,2024-01-22,Cardiology,Asthma,Observation,Dr. VQ,439,No Insurance,5166.98,Paid,No
+PID10672,Patient_672,36,Other,2024-02-11,2024-02-18,Orthopedics,Fracture,Medication,Dr. WS,274,HealthSafe,12670.21,Paid,Yes
+PID10673,Patient_673,37,Female,2024-05-20,2024-05-26,Cardiology,Hypertension,Observation,Dr. XU,487,InsureWell,9744.49,Paid,Yes
+PID10674,Patient_674,82,Male,2024-04-22,2024-04-26,Orthopedics,Fracture,Physiotherapy,Dr. YW,278,HealthSafe,17575.86,Partially Paid,No
+PID10675,Patient_675,7,Female,2024-04-14,2024-04-15,Orthopedics,Asthma,Physiotherapy,Dr. ZY,184,HealthSafe,5792.9,Paid,Yes
+PID10676,Patient_676,64,Male,2024-01-17,2024-01-26,Neurology,Hypertension,Medication,Dr. AA,144,HealthSafe,572.2,Partially Paid,No
+PID10677,Patient_677,85,Other,2024-04-29,2024-05-03,Neurology,Hypertension,Observation,Dr. BC,235,No Insurance,3669.94,Pending,Yes
+PID10678,Patient_678,16,Other,2024-05-16,2024-05-18,Cardiology,Migraine,Medication,Dr. CE,442,InsureWell,7315.69,Pending,No
+PID10679,Patient_679,70,Male,2024-06-17,2024-06-25,Orthopedics,Fracture,Surgery,Dr. DG,115,HealthSafe,6656.56,Pending,Yes
+PID10680,Patient_680,88,Other,2024-05-08,2024-05-10,Cardiology,Migraine,Medication,Dr. EI,432,No Insurance,15931.58,Partially Paid,Yes
+PID10681,Patient_681,44,Female,2024-05-09,2024-05-14,Pediatrics,Hypertension,Medication,Dr. FK,294,InsureWell,13770.93,Paid,No
+PID10682,Patient_682,3,Male,2024-02-29,2024-03-11,Cardiology,Diabetes,Physiotherapy,Dr. GM,108,MediCover,6341.35,Paid,No
+PID10683,Patient_683,35,Other,2024-02-17,2024-02-23,General Surgery,Hypertension,Medication,Dr. HO,415,HealthSafe,9426.0,Paid,No
+PID10684,Patient_684,69,Male,2024-01-29,2024-02-09,Cardiology,Migraine,Observation,Dr. IQ,433,InsureWell,2363.4,Paid,Yes
+PID10685,Patient_685,30,Female,2024-04-06,2024-04-19,General Surgery,Fracture,Physiotherapy,Dr. JS,432,HealthSafe,18013.86,Paid,No
+PID10686,Patient_686,18,Female,2024-01-10,2024-01-18,General Surgery,Asthma,Medication,Dr. KU,426,MediCover,18740.78,Partially Paid,No
+PID10687,Patient_687,60,Other,2024-02-27,2024-03-09,General Surgery,Asthma,Surgery,Dr. LW,114,InsureWell,19606.17,Pending,Yes
+PID10688,Patient_688,53,Female,2024-01-21,2024-01-22,Pediatrics,Fracture,Medication,Dr. MY,426,No Insurance,17436.78,Paid,No
+PID10689,Patient_689,38,Male,2024-01-28,2024-01-29,Cardiology,Asthma,Medication,Dr. NA,201,InsureWell,3892.24,Pending,No
+PID10690,Patient_690,90,Female,2024-02-03,2024-02-15,Cardiology,Asthma,Medication,Dr. OC,325,No Insurance,1400.83,Partially Paid,No
+PID10691,Patient_691,73,Male,2024-01-08,2024-01-12,Pediatrics,Migraine,Physiotherapy,Dr. PE,377,InsureWell,11802.14,Partially Paid,Yes
+PID10692,Patient_692,89,Male,2024-06-25,2024-06-30,Orthopedics,Fracture,Observation,Dr. QG,212,No Insurance,18295.8,Paid,Yes
+PID10693,Patient_693,18,Female,2024-03-19,2024-04-01,Neurology,Flu,Surgery,Dr. RI,100,MediCover,3958.35,Partially Paid,Yes
+PID10694,Patient_694,38,Other,2024-05-24,2024-06-06,Cardiology,Diabetes,Medication,Dr. SK,365,MediCover,637.34,Pending,No
+PID10695,Patient_695,66,Female,2024-03-27,2024-04-05,Neurology,Diabetes,Observation,Dr. TM,307,MediCover,16207.17,Paid,Yes
+PID10696,Patient_696,44,Male,2024-03-28,2024-04-08,Pediatrics,Asthma,Observation,Dr. UO,209,InsureWell,1997.52,Paid,No
+PID10697,Patient_697,12,Male,2024-06-21,2024-07-05,Orthopedics,Diabetes,Physiotherapy,Dr. VQ,299,MediCover,8567.27,Pending,No
+PID10698,Patient_698,91,Female,2024-03-09,2024-03-16,Orthopedics,Fracture,Surgery,Dr. WS,468,HealthSafe,13738.3,Paid,No
+PID10699,Patient_699,57,Other,2024-06-08,2024-06-15,Orthopedics,Fracture,Physiotherapy,Dr. XU,405,MediCover,5117.55,Paid,Yes
+PID10700,Patient_700,19,Other,2024-06-20,2024-06-28,Pediatrics,Hypertension,Observation,Dr. YW,111,No Insurance,2137.27,Pending,Yes
+PID10701,Patient_701,91,Male,2024-03-27,2024-04-01,General Surgery,Hypertension,Observation,Dr. ZY,444,No Insurance,15515.41,Paid,No
+PID10702,Patient_702,71,Male,2024-04-10,2024-04-15,General Surgery,Diabetes,Observation,Dr. AA,287,No Insurance,12788.41,Paid,No
+PID10703,Patient_703,60,Other,2024-01-08,2024-01-09,Neurology,Flu,Physiotherapy,Dr. BC,253,InsureWell,19775.56,Pending,Yes
+PID10704,Patient_704,38,Female,2024-03-17,2024-03-31,General Surgery,Hypertension,Surgery,Dr. CE,467,HealthSafe,7214.01,Partially Paid,Yes
+PID10705,Patient_705,0,Male,2024-03-27,2024-04-05,General Surgery,Hypertension,Medication,Dr. DG,433,MediCover,1704.37,Pending,Yes
+PID10706,Patient_706,2,Male,2024-02-12,2024-02-18,Orthopedics,Fracture,Physiotherapy,Dr. EI,476,HealthSafe,14819.83,Paid,No
+PID10707,Patient_707,76,Other,2024-05-08,2024-05-17,Orthopedics,Flu,Observation,Dr. FK,378,HealthSafe,10673.8,Pending,Yes
+PID10708,Patient_708,91,Female,2024-04-18,2024-04-21,Neurology,Asthma,Physiotherapy,Dr. GM,270,No Insurance,4657.48,Paid,Yes
+PID10709,Patient_709,61,Other,2024-06-27,2024-07-02,Cardiology,Diabetes,Observation,Dr. HO,233,No Insurance,15743.72,Paid,Yes
+PID10710,Patient_710,62,Female,2024-05-31,2024-06-02,Neurology,Hypertension,Medication,Dr. IQ,124,No Insurance,4473.23,Pending,No
+PID10711,Patient_711,24,Female,2024-05-31,2024-06-10,Neurology,Flu,Medication,Dr. JS,117,InsureWell,5582.9,Paid,Yes
+PID10712,Patient_712,55,Female,2024-01-17,2024-01-22,Pediatrics,Flu,Surgery,Dr. KU,289,HealthSafe,2304.31,Partially Paid,No
+PID10713,Patient_713,32,Male,2024-05-12,2024-05-25,Pediatrics,Diabetes,Observation,Dr. LW,240,HealthSafe,8288.93,Paid,No
+PID10714,Patient_714,37,Other,2024-05-27,2024-06-09,Neurology,Flu,Surgery,Dr. MY,142,InsureWell,8669.12,Pending,No
+PID10715,Patient_715,5,Other,2024-01-21,2024-02-03,Neurology,Flu,Surgery,Dr. NA,433,InsureWell,10533.95,Partially Paid,Yes
+PID10716,Patient_716,57,Female,2024-02-27,2024-03-12,Neurology,Flu,Medication,Dr. OC,383,InsureWell,14324.8,Partially Paid,Yes
+PID10717,Patient_717,43,Male,2024-06-07,2024-06-15,General Surgery,Hypertension,Physiotherapy,Dr. PE,245,HealthSafe,18168.97,Paid,Yes
+PID10718,Patient_718,44,Male,2024-04-19,2024-04-30,Pediatrics,Diabetes,Physiotherapy,Dr. QG,414,HealthSafe,3185.81,Pending,No
+PID10719,Patient_719,31,Other,2024-05-18,2024-05-20,Neurology,Flu,Surgery,Dr. RI,418,No Insurance,1559.79,Paid,Yes
+PID10720,Patient_720,44,Male,2024-06-28,2024-07-06,Orthopedics,Flu,Medication,Dr. SK,191,No Insurance,861.36,Paid,No
+PID10721,Patient_721,60,Male,2024-05-22,2024-05-26,Orthopedics,Hypertension,Observation,Dr. TM,278,HealthSafe,3300.62,Pending,Yes
+PID10722,Patient_722,46,Female,2024-05-14,2024-05-24,General Surgery,Diabetes,Physiotherapy,Dr. UO,155,No Insurance,13330.01,Pending,Yes
+PID10723,Patient_723,20,Male,2024-01-28,2024-02-07,General Surgery,Fracture,Surgery,Dr. VQ,254,InsureWell,14685.8,Paid,Yes
+PID10724,Patient_724,79,Female,2024-02-20,2024-02-21,Cardiology,Hypertension,Physiotherapy,Dr. WS,259,MediCover,15836.86,Partially Paid,Yes
+PID10725,Patient_725,84,Other,2024-01-05,2024-01-18,Cardiology,Diabetes,Physiotherapy,Dr. XU,210,No Insurance,5252.31,Paid,No
+PID10726,Patient_726,74,Male,2024-01-05,2024-01-10,Cardiology,Flu,Observation,Dr. YW,236,HealthSafe,6464.95,Partially Paid,No
+PID10727,Patient_727,35,Other,2024-04-03,2024-04-16,General Surgery,Diabetes,Medication,Dr. ZY,331,No Insurance,9921.13,Paid,No
+PID10728,Patient_728,98,Other,2024-04-05,2024-04-06,General Surgery,Diabetes,Observation,Dr. AA,319,No Insurance,1732.07,Pending,No
+PID10729,Patient_729,18,Male,2024-01-08,2024-01-15,General Surgery,Asthma,Medication,Dr. BC,167,No Insurance,12417.26,Partially Paid,Yes
+PID10730,Patient_730,19,Male,2024-03-04,2024-03-12,Orthopedics,Diabetes,Physiotherapy,Dr. CE,401,MediCover,19682.83,Pending,No
+PID10731,Patient_731,56,Other,2024-05-17,2024-05-20,General Surgery,Fracture,Surgery,Dr. DG,348,InsureWell,7535.72,Pending,No
+PID10732,Patient_732,17,Male,2024-02-07,2024-02-10,Orthopedics,Diabetes,Observation,Dr. EI,422,HealthSafe,15180.53,Pending,No
+PID10733,Patient_733,46,Female,2024-04-20,2024-04-27,Cardiology,Fracture,Medication,Dr. FK,491,MediCover,10250.66,Pending,Yes
+PID10734,Patient_734,48,Female,2024-04-21,2024-04-25,Cardiology,Flu,Physiotherapy,Dr. GM,105,HealthSafe,2992.33,Pending,No
+PID10735,Patient_735,13,Male,2024-03-21,2024-03-24,Cardiology,Fracture,Medication,Dr. HO,379,HealthSafe,11853.63,Paid,No
+PID10736,Patient_736,14,Other,2024-05-15,2024-05-23,Neurology,Flu,Medication,Dr. IQ,193,HealthSafe,6347.55,Partially Paid,Yes
+PID10737,Patient_737,30,Male,2024-04-13,2024-04-16,Neurology,Flu,Medication,Dr. JS,368,MediCover,1170.86,Paid,Yes
+PID10738,Patient_738,0,Male,2024-06-01,2024-06-14,Pediatrics,Fracture,Physiotherapy,Dr. KU,296,InsureWell,12881.13,Paid,No
+PID10739,Patient_739,53,Other,2024-03-13,2024-03-27,Pediatrics,Hypertension,Surgery,Dr. LW,124,HealthSafe,17249.18,Paid,No
+PID10740,Patient_740,2,Other,2024-06-26,2024-07-03,Pediatrics,Migraine,Surgery,Dr. MY,247,InsureWell,7223.01,Pending,Yes
+PID10741,Patient_741,15,Female,2024-02-18,2024-02-20,Neurology,Diabetes,Surgery,Dr. NA,217,InsureWell,8110.76,Paid,No
+PID10742,Patient_742,86,Other,2024-02-05,2024-02-16,Neurology,Asthma,Medication,Dr. OC,437,No Insurance,17874.92,Partially Paid,Yes
+PID10743,Patient_743,56,Female,2024-05-05,2024-05-16,Pediatrics,Migraine,Physiotherapy,Dr. PE,466,MediCover,16365.37,Paid,No
+PID10744,Patient_744,74,Other,2024-03-08,2024-03-09,Pediatrics,Diabetes,Medication,Dr. QG,437,MediCover,14441.58,Pending,No
+PID10745,Patient_745,11,Male,2024-03-18,2024-03-30,General Surgery,Diabetes,Surgery,Dr. RI,165,No Insurance,5351.54,Partially Paid,No
+PID10746,Patient_746,73,Female,2024-04-14,2024-04-20,Pediatrics,Flu,Surgery,Dr. SK,400,No Insurance,18249.22,Partially Paid,No
+PID10747,Patient_747,95,Female,2024-06-17,2024-06-25,General Surgery,Diabetes,Physiotherapy,Dr. TM,469,InsureWell,3511.11,Partially Paid,No
+PID10748,Patient_748,15,Female,2024-05-01,2024-05-02,Orthopedics,Asthma,Medication,Dr. UO,274,HealthSafe,12722.03,Partially Paid,Yes
+PID10749,Patient_749,71,Male,2024-04-28,2024-05-11,Neurology,Diabetes,Observation,Dr. VQ,418,MediCover,1061.62,Paid,Yes
+PID10750,Patient_750,75,Male,2024-04-23,2024-05-03,Pediatrics,Fracture,Observation,Dr. WS,175,HealthSafe,13052.54,Pending,No
+PID10751,Patient_751,23,Male,2024-01-10,2024-01-22,Neurology,Migraine,Surgery,Dr. XU,213,HealthSafe,5904.31,Partially Paid,No
+PID10752,Patient_752,27,Male,2024-05-28,2024-06-06,Neurology,Fracture,Physiotherapy,Dr. YW,210,No Insurance,9268.7,Partially Paid,No
+PID10753,Patient_753,7,Male,2024-06-12,2024-06-15,Neurology,Asthma,Medication,Dr. ZY,348,HealthSafe,7232.66,Pending,Yes
+PID10754,Patient_754,91,Female,2024-05-19,2024-05-22,Orthopedics,Diabetes,Medication,Dr. AA,302,InsureWell,3868.76,Paid,Yes
+PID10755,Patient_755,35,Male,2024-03-31,2024-04-04,Cardiology,Asthma,Surgery,Dr. BC,246,No Insurance,12628.63,Partially Paid,Yes
+PID10756,Patient_756,89,Female,2024-01-02,2024-01-13,Pediatrics,Flu,Surgery,Dr. CE,134,HealthSafe,17698.52,Paid,Yes
+PID10757,Patient_757,7,Male,2024-04-27,2024-04-28,Cardiology,Fracture,Medication,Dr. DG,408,No Insurance,19202.14,Paid,Yes
+PID10758,Patient_758,57,Other,2024-01-13,2024-01-22,Cardiology,Fracture,Medication,Dr. EI,125,InsureWell,4250.75,Paid,Yes
+PID10759,Patient_759,59,Female,2024-06-08,2024-06-19,Cardiology,Hypertension,Surgery,Dr. FK,337,InsureWell,14488.77,Paid,Yes
+PID10760,Patient_760,49,Other,2024-04-04,2024-04-07,Neurology,Diabetes,Medication,Dr. GM,113,HealthSafe,13454.62,Partially Paid,Yes
+PID10761,Patient_761,27,Female,2024-05-23,2024-06-05,General Surgery,Flu,Observation,Dr. HO,473,No Insurance,7195.87,Partially Paid,No
+PID10762,Patient_762,91,Other,2024-02-01,2024-02-11,Neurology,Fracture,Surgery,Dr. IQ,144,HealthSafe,872.43,Paid,Yes
+PID10763,Patient_763,40,Male,2024-02-01,2024-02-05,Neurology,Fracture,Medication,Dr. JS,315,HealthSafe,13950.93,Paid,Yes
+PID10764,Patient_764,99,Male,2024-05-03,2024-05-04,Cardiology,Flu,Surgery,Dr. KU,332,No Insurance,18937.15,Pending,Yes
+PID10765,Patient_765,63,Male,2024-01-11,2024-01-15,Neurology,Asthma,Physiotherapy,Dr. LW,292,HealthSafe,12826.34,Pending,Yes
+PID10766,Patient_766,26,Female,2024-01-10,2024-01-23,Cardiology,Asthma,Surgery,Dr. MY,150,InsureWell,8988.21,Pending,No
+PID10767,Patient_767,62,Other,2024-01-15,2024-01-16,General Surgery,Diabetes,Surgery,Dr. NA,474,No Insurance,10740.5,Partially Paid,Yes
+PID10768,Patient_768,16,Male,2024-01-17,2024-01-22,Pediatrics,Hypertension,Physiotherapy,Dr. OC,313,No Insurance,4392.76,Pending,No
+PID10769,Patient_769,72,Other,2024-06-16,2024-06-21,Cardiology,Fracture,Observation,Dr. PE,250,No Insurance,15135.61,Partially Paid,No
+PID10770,Patient_770,32,Other,2024-05-25,2024-06-08,General Surgery,Hypertension,Medication,Dr. QG,374,No Insurance,15055.19,Partially Paid,No
+PID10771,Patient_771,83,Male,2024-06-01,2024-06-12,Pediatrics,Asthma,Physiotherapy,Dr. RI,437,HealthSafe,3337.59,Partially Paid,Yes
+PID10772,Patient_772,76,Male,2024-02-28,2024-03-06,Orthopedics,Asthma,Surgery,Dr. SK,175,HealthSafe,17620.58,Partially Paid,Yes
+PID10773,Patient_773,91,Other,2024-03-18,2024-04-01,Cardiology,Migraine,Medication,Dr. TM,319,InsureWell,5749.2,Pending,Yes
+PID10774,Patient_774,28,Male,2024-05-03,2024-05-11,Cardiology,Diabetes,Physiotherapy,Dr. UO,447,MediCover,19653.99,Paid,No
+PID10775,Patient_775,12,Male,2024-04-23,2024-04-27,Orthopedics,Migraine,Medication,Dr. VQ,286,MediCover,7966.61,Paid,No
+PID10776,Patient_776,45,Male,2024-01-22,2024-01-29,Orthopedics,Migraine,Medication,Dr. WS,388,InsureWell,3968.74,Paid,No
+PID10777,Patient_777,34,Female,2024-06-06,2024-06-10,Cardiology,Migraine,Physiotherapy,Dr. XU,127,MediCover,7358.54,Pending,No
+PID10778,Patient_778,5,Other,2024-06-20,2024-06-23,Orthopedics,Diabetes,Medication,Dr. YW,478,InsureWell,9083.52,Paid,Yes
+PID10779,Patient_779,81,Other,2024-02-01,2024-02-07,Neurology,Diabetes,Observation,Dr. ZY,279,HealthSafe,1851.5,Pending,Yes
+PID10780,Patient_780,68,Female,2024-06-27,2024-07-01,Pediatrics,Flu,Physiotherapy,Dr. AA,352,No Insurance,11775.26,Pending,Yes
+PID10781,Patient_781,46,Other,2024-06-22,2024-07-06,Pediatrics,Hypertension,Observation,Dr. BC,225,No Insurance,12153.83,Pending,No
+PID10782,Patient_782,24,Male,2024-04-22,2024-04-25,Pediatrics,Hypertension,Surgery,Dr. CE,276,HealthSafe,14909.14,Paid,No
+PID10783,Patient_783,65,Other,2024-04-29,2024-05-08,Neurology,Flu,Medication,Dr. DG,136,No Insurance,1068.81,Paid,Yes
+PID10784,Patient_784,9,Male,2024-05-28,2024-06-02,Orthopedics,Flu,Surgery,Dr. EI,198,No Insurance,11054.15,Paid,Yes
+PID10785,Patient_785,55,Female,2024-05-01,2024-05-14,General Surgery,Asthma,Surgery,Dr. FK,197,MediCover,1531.69,Partially Paid,No
+PID10786,Patient_786,29,Male,2024-02-01,2024-02-15,Orthopedics,Migraine,Medication,Dr. GM,226,HealthSafe,14172.31,Pending,Yes
+PID10787,Patient_787,4,Other,2024-04-28,2024-05-05,Cardiology,Flu,Physiotherapy,Dr. HO,267,MediCover,1586.7,Partially Paid,Yes
+PID10788,Patient_788,32,Other,2024-02-08,2024-02-20,Pediatrics,Fracture,Medication,Dr. IQ,179,MediCover,18278.69,Pending,No
+PID10789,Patient_789,64,Other,2024-01-12,2024-01-26,Orthopedics,Hypertension,Surgery,Dr. JS,393,No Insurance,14190.61,Paid,No
+PID10790,Patient_790,17,Female,2024-06-23,2024-06-29,General Surgery,Flu,Surgery,Dr. KU,432,No Insurance,10394.1,Pending,No
+PID10791,Patient_791,95,Female,2024-01-18,2024-01-28,Cardiology,Fracture,Physiotherapy,Dr. LW,225,HealthSafe,9109.33,Pending,Yes
+PID10792,Patient_792,48,Other,2024-05-28,2024-06-02,Neurology,Fracture,Medication,Dr. MY,442,No Insurance,3048.12,Partially Paid,No
+PID10793,Patient_793,10,Male,2024-05-20,2024-05-27,Neurology,Fracture,Surgery,Dr. NA,409,No Insurance,6174.49,Pending,Yes
+PID10794,Patient_794,84,Female,2024-05-28,2024-06-08,General Surgery,Asthma,Observation,Dr. OC,249,HealthSafe,17444.7,Paid,Yes
+PID10795,Patient_795,25,Other,2024-05-05,2024-05-11,Cardiology,Asthma,Surgery,Dr. PE,115,No Insurance,18136.83,Pending,No
+PID10796,Patient_796,62,Other,2024-05-15,2024-05-25,Pediatrics,Fracture,Surgery,Dr. QG,127,MediCover,514.58,Pending,Yes
+PID10797,Patient_797,88,Female,2024-02-15,2024-02-17,Orthopedics,Asthma,Physiotherapy,Dr. RI,272,HealthSafe,12085.66,Pending,No
+PID10798,Patient_798,85,Female,2024-04-13,2024-04-26,Cardiology,Migraine,Observation,Dr. SK,145,No Insurance,14526.36,Partially Paid,No
+PID10799,Patient_799,58,Female,2024-05-14,2024-05-27,Neurology,Fracture,Surgery,Dr. TM,427,InsureWell,12565.57,Pending,Yes
+PID10800,Patient_800,26,Male,2024-05-30,2024-06-12,General Surgery,Migraine,Surgery,Dr. UO,335,HealthSafe,2092.76,Pending,Yes
+PID10801,Patient_801,48,Male,2024-03-26,2024-03-29,General Surgery,Migraine,Observation,Dr. VQ,313,HealthSafe,4745.64,Partially Paid,No
+PID10802,Patient_802,76,Other,2024-05-29,2024-05-31,Orthopedics,Fracture,Medication,Dr. WS,184,InsureWell,5381.64,Partially Paid,No
+PID10803,Patient_803,32,Female,2024-03-29,2024-04-10,General Surgery,Hypertension,Medication,Dr. XU,381,No Insurance,16718.63,Partially Paid,No
+PID10804,Patient_804,97,Male,2024-01-22,2024-01-25,General Surgery,Fracture,Surgery,Dr. YW,331,No Insurance,9532.39,Partially Paid,No
+PID10805,Patient_805,98,Female,2024-04-01,2024-04-02,Cardiology,Fracture,Surgery,Dr. ZY,184,HealthSafe,9993.15,Paid,No
+PID10806,Patient_806,0,Other,2024-01-29,2024-02-06,Pediatrics,Asthma,Medication,Dr. AA,164,HealthSafe,18730.41,Paid,No
+PID10807,Patient_807,20,Male,2024-01-13,2024-01-19,Orthopedics,Fracture,Physiotherapy,Dr. BC,233,No Insurance,12923.17,Pending,Yes
+PID10808,Patient_808,54,Male,2024-01-02,2024-01-15,Cardiology,Hypertension,Observation,Dr. CE,250,No Insurance,18024.02,Paid,Yes
+PID10809,Patient_809,5,Male,2024-01-29,2024-01-31,Pediatrics,Asthma,Observation,Dr. DG,214,MediCover,9401.92,Pending,Yes
+PID10810,Patient_810,91,Other,2024-06-28,2024-07-06,Cardiology,Diabetes,Physiotherapy,Dr. EI,163,HealthSafe,3414.01,Paid,Yes
+PID10811,Patient_811,80,Female,2024-01-27,2024-02-02,Cardiology,Diabetes,Physiotherapy,Dr. FK,442,HealthSafe,18633.74,Partially Paid,No
+PID10812,Patient_812,68,Male,2024-02-19,2024-02-26,General Surgery,Migraine,Physiotherapy,Dr. GM,462,InsureWell,9444.75,Partially Paid,Yes
+PID10813,Patient_813,94,Other,2024-04-04,2024-04-15,Pediatrics,Migraine,Physiotherapy,Dr. HO,451,MediCover,4041.81,Paid,Yes
+PID10814,Patient_814,4,Female,2024-05-30,2024-05-31,Orthopedics,Hypertension,Physiotherapy,Dr. IQ,257,No Insurance,6396.72,Paid,No
+PID10815,Patient_815,2,Other,2024-03-28,2024-04-04,Orthopedics,Flu,Physiotherapy,Dr. JS,176,MediCover,1490.65,Pending,Yes
+PID10816,Patient_816,52,Female,2024-02-13,2024-02-16,Pediatrics,Diabetes,Observation,Dr. KU,245,No Insurance,9631.86,Pending,No
+PID10817,Patient_817,22,Other,2024-01-22,2024-02-02,General Surgery,Migraine,Physiotherapy,Dr. LW,442,No Insurance,17136.0,Pending,No
+PID10818,Patient_818,52,Female,2024-06-19,2024-07-01,Neurology,Diabetes,Medication,Dr. MY,324,MediCover,18704.82,Partially Paid,No
+PID10819,Patient_819,36,Male,2024-06-13,2024-06-21,Cardiology,Hypertension,Physiotherapy,Dr. NA,412,HealthSafe,18685.74,Partially Paid,No
+PID10820,Patient_820,73,Female,2024-04-06,2024-04-12,General Surgery,Hypertension,Physiotherapy,Dr. OC,202,No Insurance,2941.99,Partially Paid,No
+PID10821,Patient_821,73,Other,2024-01-03,2024-01-07,Pediatrics,Flu,Observation,Dr. PE,446,MediCover,7950.05,Partially Paid,Yes
+PID10822,Patient_822,82,Other,2024-04-27,2024-05-08,Cardiology,Flu,Observation,Dr. QG,400,InsureWell,1050.46,Pending,Yes
+PID10823,Patient_823,16,Female,2024-01-19,2024-01-27,Orthopedics,Asthma,Physiotherapy,Dr. RI,187,MediCover,17175.72,Partially Paid,Yes
+PID10824,Patient_824,84,Male,2024-01-23,2024-02-01,Neurology,Hypertension,Observation,Dr. SK,470,InsureWell,7495.74,Partially Paid,No
+PID10825,Patient_825,77,Male,2024-06-05,2024-06-15,Orthopedics,Migraine,Surgery,Dr. TM,402,No Insurance,12806.78,Partially Paid,Yes
+PID10826,Patient_826,72,Female,2024-01-30,2024-02-01,Pediatrics,Diabetes,Observation,Dr. UO,267,MediCover,14440.52,Partially Paid,Yes
+PID10827,Patient_827,0,Female,2024-02-08,2024-02-14,Cardiology,Fracture,Observation,Dr. VQ,269,MediCover,8881.97,Paid,Yes
+PID10828,Patient_828,50,Other,2024-04-17,2024-04-22,Pediatrics,Flu,Observation,Dr. WS,234,InsureWell,6475.63,Pending,Yes
+PID10829,Patient_829,44,Male,2024-04-20,2024-04-25,Cardiology,Fracture,Observation,Dr. XU,149,MediCover,19263.15,Pending,No
+PID10830,Patient_830,76,Female,2024-01-25,2024-02-04,General Surgery,Migraine,Medication,Dr. YW,439,MediCover,19307.52,Partially Paid,Yes
+PID10831,Patient_831,3,Male,2024-05-07,2024-05-18,Neurology,Flu,Medication,Dr. ZY,446,No Insurance,6144.01,Paid,No
+PID10832,Patient_832,61,Female,2024-04-20,2024-04-23,General Surgery,Fracture,Medication,Dr. AA,233,MediCover,9852.69,Pending,No
+PID10833,Patient_833,64,Female,2024-05-15,2024-05-27,General Surgery,Migraine,Physiotherapy,Dr. BC,446,HealthSafe,19470.46,Pending,Yes
+PID10834,Patient_834,31,Male,2024-04-15,2024-04-23,Pediatrics,Diabetes,Physiotherapy,Dr. CE,236,InsureWell,594.93,Partially Paid,No
+PID10835,Patient_835,33,Female,2024-05-23,2024-06-06,Neurology,Migraine,Surgery,Dr. DG,344,MediCover,8547.23,Partially Paid,No
+PID10836,Patient_836,91,Female,2024-03-12,2024-03-20,Cardiology,Asthma,Medication,Dr. EI,208,InsureWell,2458.92,Pending,No
+PID10837,Patient_837,94,Other,2024-05-08,2024-05-20,Cardiology,Flu,Physiotherapy,Dr. FK,412,InsureWell,10428.58,Pending,No
+PID10838,Patient_838,71,Female,2024-04-17,2024-04-22,Orthopedics,Hypertension,Observation,Dr. GM,386,InsureWell,981.06,Paid,No
+PID10839,Patient_839,38,Female,2024-01-05,2024-01-13,Cardiology,Diabetes,Observation,Dr. HO,120,MediCover,8434.52,Pending,No
+PID10840,Patient_840,25,Female,2024-01-03,2024-01-13,Pediatrics,Fracture,Medication,Dr. IQ,189,MediCover,4803.63,Pending,No
+PID10841,Patient_841,33,Other,2024-05-11,2024-05-19,General Surgery,Flu,Surgery,Dr. JS,395,InsureWell,10899.51,Partially Paid,Yes
+PID10842,Patient_842,53,Male,2024-04-13,2024-04-16,General Surgery,Hypertension,Surgery,Dr. KU,211,HealthSafe,19921.88,Pending,Yes
+PID10843,Patient_843,2,Other,2024-03-04,2024-03-06,General Surgery,Migraine,Observation,Dr. LW,400,InsureWell,16110.45,Partially Paid,No
+PID10844,Patient_844,49,Other,2024-04-15,2024-04-24,Neurology,Hypertension,Surgery,Dr. MY,176,HealthSafe,16990.02,Pending,No
+PID10845,Patient_845,11,Male,2024-04-07,2024-04-09,Cardiology,Flu,Medication,Dr. NA,276,InsureWell,12887.67,Pending,Yes
+PID10846,Patient_846,64,Other,2024-01-10,2024-01-19,Pediatrics,Flu,Observation,Dr. OC,442,No Insurance,1310.42,Pending,Yes
+PID10847,Patient_847,53,Male,2024-05-28,2024-06-01,Neurology,Asthma,Physiotherapy,Dr. PE,247,InsureWell,4532.55,Paid,Yes
+PID10848,Patient_848,4,Other,2024-05-07,2024-05-19,Orthopedics,Asthma,Physiotherapy,Dr. QG,200,InsureWell,18538.76,Partially Paid,Yes
+PID10849,Patient_849,93,Male,2024-02-15,2024-02-28,Pediatrics,Hypertension,Surgery,Dr. RI,345,MediCover,7639.21,Paid,No
+PID10850,Patient_850,93,Female,2024-06-03,2024-06-05,Pediatrics,Migraine,Observation,Dr. SK,216,HealthSafe,2520.92,Pending,No
+PID10851,Patient_851,56,Other,2024-03-06,2024-03-16,Pediatrics,Hypertension,Observation,Dr. TM,191,No Insurance,14196.9,Paid,Yes
+PID10852,Patient_852,16,Other,2024-06-17,2024-06-18,General Surgery,Flu,Physiotherapy,Dr. UO,127,HealthSafe,6339.43,Partially Paid,Yes
+PID10853,Patient_853,46,Other,2024-04-21,2024-04-25,Pediatrics,Flu,Observation,Dr. VQ,124,No Insurance,5742.71,Pending,Yes
+PID10854,Patient_854,22,Other,2024-01-13,2024-01-22,Cardiology,Fracture,Observation,Dr. WS,157,InsureWell,19960.56,Paid,Yes
+PID10855,Patient_855,78,Female,2024-05-16,2024-05-28,Pediatrics,Asthma,Observation,Dr. XU,396,MediCover,17233.71,Paid,No
+PID10856,Patient_856,84,Other,2024-06-12,2024-06-21,General Surgery,Fracture,Surgery,Dr. YW,233,MediCover,8454.79,Partially Paid,Yes
+PID10857,Patient_857,13,Female,2024-03-26,2024-03-30,Pediatrics,Diabetes,Observation,Dr. ZY,430,HealthSafe,19615.09,Paid,Yes
+PID10858,Patient_858,65,Female,2024-03-30,2024-04-08,Orthopedics,Flu,Medication,Dr. AA,348,MediCover,13177.21,Partially Paid,Yes
+PID10859,Patient_859,74,Female,2024-02-27,2024-03-10,Orthopedics,Fracture,Surgery,Dr. BC,137,HealthSafe,14969.44,Pending,No
+PID10860,Patient_860,50,Female,2024-02-23,2024-02-29,General Surgery,Hypertension,Observation,Dr. CE,489,HealthSafe,1114.5,Pending,No
+PID10861,Patient_861,37,Male,2024-01-12,2024-01-13,Cardiology,Asthma,Observation,Dr. DG,174,No Insurance,2871.3,Paid,No
+PID10862,Patient_862,63,Male,2024-01-14,2024-01-24,Cardiology,Asthma,Medication,Dr. EI,241,HealthSafe,12845.16,Pending,Yes
+PID10863,Patient_863,97,Other,2024-04-30,2024-05-13,Neurology,Migraine,Surgery,Dr. FK,421,No Insurance,18030.97,Pending,Yes
+PID10864,Patient_864,37,Male,2024-06-10,2024-06-24,General Surgery,Hypertension,Physiotherapy,Dr. GM,267,MediCover,12663.0,Paid,Yes
+PID10865,Patient_865,49,Male,2024-04-30,2024-05-06,Pediatrics,Migraine,Physiotherapy,Dr. HO,358,HealthSafe,3113.49,Pending,No
+PID10866,Patient_866,97,Other,2024-01-20,2024-01-29,General Surgery,Fracture,Surgery,Dr. IQ,472,HealthSafe,2757.32,Paid,No
+PID10867,Patient_867,81,Other,2024-03-15,2024-03-28,Neurology,Diabetes,Observation,Dr. JS,454,InsureWell,16961.62,Partially Paid,Yes
+PID10868,Patient_868,29,Other,2024-05-23,2024-05-25,General Surgery,Hypertension,Observation,Dr. KU,324,HealthSafe,3216.4,Partially Paid,Yes
+PID10869,Patient_869,78,Male,2024-03-10,2024-03-16,General Surgery,Hypertension,Physiotherapy,Dr. LW,251,HealthSafe,10644.52,Partially Paid,No
+PID10870,Patient_870,90,Male,2024-02-25,2024-02-27,Neurology,Hypertension,Physiotherapy,Dr. MY,118,InsureWell,1223.71,Paid,Yes
+PID10871,Patient_871,50,Other,2024-04-10,2024-04-14,Cardiology,Migraine,Physiotherapy,Dr. NA,245,InsureWell,2073.06,Paid,Yes
+PID10872,Patient_872,62,Female,2024-05-11,2024-05-19,Pediatrics,Fracture,Medication,Dr. OC,340,MediCover,13610.79,Pending,Yes
+PID10873,Patient_873,97,Other,2024-04-20,2024-05-03,Neurology,Hypertension,Physiotherapy,Dr. PE,471,HealthSafe,13939.04,Pending,No
+PID10874,Patient_874,51,Female,2024-05-04,2024-05-11,Orthopedics,Hypertension,Medication,Dr. QG,480,MediCover,7158.65,Pending,Yes
+PID10875,Patient_875,37,Female,2024-05-11,2024-05-22,Cardiology,Asthma,Surgery,Dr. RI,443,MediCover,4704.39,Pending,Yes
+PID10876,Patient_876,96,Other,2024-01-20,2024-02-01,Orthopedics,Diabetes,Observation,Dr. SK,336,InsureWell,16367.35,Pending,Yes
+PID10877,Patient_877,87,Other,2024-05-17,2024-05-30,Cardiology,Asthma,Physiotherapy,Dr. TM,134,No Insurance,4733.51,Paid,Yes
+PID10878,Patient_878,78,Other,2024-01-24,2024-02-02,Pediatrics,Asthma,Observation,Dr. UO,289,MediCover,11069.53,Paid,No
+PID10879,Patient_879,29,Male,2024-06-02,2024-06-09,Pediatrics,Diabetes,Observation,Dr. VQ,100,No Insurance,19380.07,Partially Paid,No
+PID10880,Patient_880,50,Female,2024-02-06,2024-02-07,General Surgery,Fracture,Physiotherapy,Dr. WS,252,HealthSafe,3383.12,Partially Paid,No
+PID10881,Patient_881,80,Male,2024-02-23,2024-02-25,Orthopedics,Asthma,Physiotherapy,Dr. XU,225,InsureWell,18847.09,Partially Paid,Yes
+PID10882,Patient_882,4,Male,2024-04-12,2024-04-18,Cardiology,Fracture,Surgery,Dr. YW,444,HealthSafe,4066.41,Partially Paid,No
+PID10883,Patient_883,28,Other,2024-05-28,2024-06-04,Pediatrics,Asthma,Medication,Dr. ZY,499,HealthSafe,11565.14,Paid,Yes
+PID10884,Patient_884,3,Male,2024-02-07,2024-02-10,Neurology,Flu,Medication,Dr. AA,325,InsureWell,7851.65,Paid,No
+PID10885,Patient_885,9,Other,2024-06-22,2024-07-01,Pediatrics,Diabetes,Observation,Dr. BC,320,HealthSafe,19316.11,Paid,Yes
+PID10886,Patient_886,55,Female,2024-01-04,2024-01-17,Neurology,Asthma,Physiotherapy,Dr. CE,310,InsureWell,5834.07,Pending,No
+PID10887,Patient_887,16,Other,2024-02-26,2024-03-04,Cardiology,Flu,Surgery,Dr. DG,124,No Insurance,8293.33,Pending,No
+PID10888,Patient_888,73,Male,2024-06-21,2024-07-05,Pediatrics,Migraine,Surgery,Dr. EI,115,HealthSafe,19665.77,Partially Paid,No
+PID10889,Patient_889,16,Male,2024-01-20,2024-01-26,Pediatrics,Flu,Surgery,Dr. FK,281,InsureWell,10961.17,Pending,Yes
+PID10890,Patient_890,83,Other,2024-01-17,2024-01-30,Cardiology,Hypertension,Surgery,Dr. GM,428,MediCover,10301.29,Paid,Yes
+PID10891,Patient_891,87,Other,2024-04-28,2024-05-04,Pediatrics,Asthma,Surgery,Dr. HO,228,HealthSafe,5526.68,Partially Paid,Yes
+PID10892,Patient_892,68,Male,2024-03-11,2024-03-12,Neurology,Flu,Medication,Dr. IQ,141,No Insurance,14176.59,Partially Paid,No
+PID10893,Patient_893,33,Female,2024-01-04,2024-01-17,Pediatrics,Fracture,Medication,Dr. JS,435,InsureWell,780.27,Pending,Yes
+PID10894,Patient_894,5,Female,2024-01-14,2024-01-19,Orthopedics,Migraine,Medication,Dr. KU,335,HealthSafe,1465.5,Partially Paid,Yes
+PID10895,Patient_895,52,Other,2024-01-03,2024-01-13,General Surgery,Asthma,Physiotherapy,Dr. LW,459,HealthSafe,12187.49,Pending,Yes
+PID10896,Patient_896,65,Female,2024-03-20,2024-03-23,Neurology,Hypertension,Observation,Dr. MY,133,HealthSafe,7162.65,Pending,Yes
+PID10897,Patient_897,76,Male,2024-02-24,2024-03-02,Orthopedics,Flu,Surgery,Dr. NA,444,No Insurance,19089.67,Partially Paid,Yes
+PID10898,Patient_898,42,Other,2024-05-11,2024-05-21,Cardiology,Migraine,Physiotherapy,Dr. OC,480,InsureWell,18112.22,Pending,Yes
+PID10899,Patient_899,74,Male,2024-04-29,2024-05-02,Neurology,Asthma,Surgery,Dr. PE,144,MediCover,14417.27,Pending,No
+PID10900,Patient_900,22,Male,2024-01-24,2024-01-29,General Surgery,Migraine,Medication,Dr. QG,233,MediCover,16453.84,Pending,No
+PID10901,Patient_901,54,Female,2024-06-10,2024-06-17,General Surgery,Hypertension,Physiotherapy,Dr. RI,120,MediCover,13512.97,Pending,Yes
+PID10902,Patient_902,79,Other,2024-06-06,2024-06-20,Cardiology,Flu,Medication,Dr. SK,221,InsureWell,2948.85,Partially Paid,No
+PID10903,Patient_903,94,Other,2024-03-22,2024-03-25,Cardiology,Migraine,Surgery,Dr. TM,169,MediCover,15428.1,Paid,No
+PID10904,Patient_904,74,Female,2024-05-26,2024-06-08,Neurology,Migraine,Surgery,Dr. UO,451,No Insurance,4598.74,Paid,Yes
+PID10905,Patient_905,15,Male,2024-06-07,2024-06-20,Pediatrics,Diabetes,Observation,Dr. VQ,460,InsureWell,6807.14,Pending,Yes
+PID10906,Patient_906,7,Male,2024-02-29,2024-03-10,Cardiology,Migraine,Surgery,Dr. WS,147,HealthSafe,16475.07,Pending,No
+PID10907,Patient_907,3,Male,2024-05-26,2024-05-28,Pediatrics,Diabetes,Medication,Dr. XU,138,No Insurance,10962.25,Pending,Yes
+PID10908,Patient_908,3,Male,2024-02-18,2024-02-24,Orthopedics,Flu,Surgery,Dr. YW,386,HealthSafe,17268.84,Paid,No
+PID10909,Patient_909,55,Other,2024-03-03,2024-03-11,General Surgery,Asthma,Observation,Dr. ZY,109,MediCover,4654.19,Pending,No
+PID10910,Patient_910,24,Other,2024-04-19,2024-04-23,Pediatrics,Asthma,Observation,Dr. AA,129,No Insurance,12351.68,Partially Paid,No
+PID10911,Patient_911,66,Female,2024-05-29,2024-06-07,General Surgery,Flu,Medication,Dr. BC,343,InsureWell,2133.92,Partially Paid,Yes
+PID10912,Patient_912,95,Female,2024-05-31,2024-06-12,Pediatrics,Flu,Physiotherapy,Dr. CE,373,No Insurance,13039.69,Partially Paid,No
+PID10913,Patient_913,66,Other,2024-04-18,2024-04-30,Orthopedics,Fracture,Surgery,Dr. DG,187,HealthSafe,15369.41,Paid,Yes
+PID10914,Patient_914,26,Other,2024-03-16,2024-03-24,Cardiology,Flu,Observation,Dr. EI,343,InsureWell,11906.15,Pending,Yes
+PID10915,Patient_915,92,Male,2024-01-30,2024-02-06,Orthopedics,Migraine,Surgery,Dr. FK,480,No Insurance,5691.51,Pending,Yes
+PID10916,Patient_916,31,Male,2024-02-27,2024-03-12,Cardiology,Asthma,Surgery,Dr. GM,428,No Insurance,1111.18,Pending,Yes
+PID10917,Patient_917,49,Female,2024-04-26,2024-05-03,Cardiology,Hypertension,Physiotherapy,Dr. HO,114,No Insurance,2829.25,Paid,Yes
+PID10918,Patient_918,60,Other,2024-06-07,2024-06-10,General Surgery,Asthma,Observation,Dr. IQ,103,No Insurance,12634.91,Paid,No
+PID10919,Patient_919,50,Female,2024-04-09,2024-04-23,Orthopedics,Diabetes,Surgery,Dr. JS,290,InsureWell,18721.19,Paid,Yes
+PID10920,Patient_920,18,Other,2024-01-19,2024-01-25,Pediatrics,Asthma,Observation,Dr. KU,267,HealthSafe,4527.42,Paid,Yes
+PID10921,Patient_921,20,Male,2024-06-24,2024-07-07,Orthopedics,Fracture,Medication,Dr. LW,108,No Insurance,14833.01,Partially Paid,Yes
+PID10922,Patient_922,4,Female,2024-06-21,2024-07-04,General Surgery,Flu,Medication,Dr. MY,208,InsureWell,17395.8,Paid,Yes
+PID10923,Patient_923,81,Female,2024-04-03,2024-04-08,Cardiology,Flu,Surgery,Dr. NA,236,HealthSafe,10657.2,Paid,Yes
+PID10924,Patient_924,91,Other,2024-04-22,2024-04-23,General Surgery,Asthma,Observation,Dr. OC,253,No Insurance,13550.68,Paid,No
+PID10925,Patient_925,41,Male,2024-05-25,2024-06-05,Neurology,Hypertension,Surgery,Dr. PE,487,HealthSafe,16392.8,Pending,Yes
+PID10926,Patient_926,60,Female,2024-03-03,2024-03-06,Neurology,Hypertension,Observation,Dr. QG,308,HealthSafe,5583.17,Pending,Yes
+PID10927,Patient_927,21,Male,2024-04-25,2024-05-08,Pediatrics,Fracture,Observation,Dr. RI,371,InsureWell,6289.47,Pending,No
+PID10928,Patient_928,20,Female,2024-04-22,2024-05-04,General Surgery,Diabetes,Physiotherapy,Dr. SK,242,HealthSafe,512.24,Partially Paid,Yes
+PID10929,Patient_929,69,Male,2024-02-16,2024-02-17,Pediatrics,Asthma,Physiotherapy,Dr. TM,198,InsureWell,19280.34,Partially Paid,No
+PID10930,Patient_930,0,Other,2024-02-26,2024-03-01,Pediatrics,Flu,Physiotherapy,Dr. UO,476,No Insurance,18392.13,Paid,No
+PID10931,Patient_931,4,Female,2024-04-27,2024-05-07,Neurology,Asthma,Surgery,Dr. VQ,407,HealthSafe,15409.08,Pending,No
+PID10932,Patient_932,11,Female,2024-02-14,2024-02-17,Pediatrics,Fracture,Physiotherapy,Dr. WS,168,HealthSafe,2041.98,Partially Paid,No
+PID10933,Patient_933,89,Male,2024-06-09,2024-06-20,Neurology,Migraine,Physiotherapy,Dr. XU,346,MediCover,9226.31,Pending,Yes
+PID10934,Patient_934,45,Male,2024-05-24,2024-05-28,Cardiology,Migraine,Medication,Dr. YW,360,No Insurance,2486.89,Partially Paid,Yes
+PID10935,Patient_935,33,Female,2024-01-04,2024-01-13,General Surgery,Fracture,Observation,Dr. ZY,375,No Insurance,810.45,Partially Paid,No
+PID10936,Patient_936,48,Other,2024-05-27,2024-05-30,Pediatrics,Flu,Observation,Dr. AA,178,MediCover,12515.57,Paid,No
+PID10937,Patient_937,77,Male,2024-02-16,2024-02-28,Neurology,Fracture,Physiotherapy,Dr. BC,245,MediCover,19236.17,Paid,Yes
+PID10938,Patient_938,89,Male,2024-05-22,2024-05-28,Orthopedics,Flu,Observation,Dr. CE,210,InsureWell,18105.93,Partially Paid,No
+PID10939,Patient_939,44,Male,2024-02-16,2024-02-22,Pediatrics,Hypertension,Medication,Dr. DG,357,InsureWell,14086.72,Paid,No
+PID10940,Patient_940,26,Female,2024-03-18,2024-03-25,Cardiology,Fracture,Medication,Dr. EI,192,HealthSafe,2384.49,Partially Paid,No
+PID10941,Patient_941,72,Female,2024-05-03,2024-05-12,Cardiology,Flu,Physiotherapy,Dr. FK,112,HealthSafe,5846.2,Partially Paid,Yes
+PID10942,Patient_942,25,Female,2024-03-15,2024-03-27,Orthopedics,Fracture,Medication,Dr. GM,359,HealthSafe,6741.11,Pending,No
+PID10943,Patient_943,46,Female,2024-04-12,2024-04-19,Neurology,Fracture,Observation,Dr. HO,208,HealthSafe,15381.43,Paid,Yes
+PID10944,Patient_944,85,Other,2024-05-16,2024-05-30,Pediatrics,Flu,Surgery,Dr. IQ,429,InsureWell,16143.86,Paid,Yes
+PID10945,Patient_945,55,Other,2024-03-30,2024-03-31,Neurology,Flu,Observation,Dr. JS,288,No Insurance,8009.57,Paid,Yes
+PID10946,Patient_946,93,Female,2024-05-23,2024-05-31,Cardiology,Diabetes,Surgery,Dr. KU,194,HealthSafe,8648.74,Pending,No
+PID10947,Patient_947,62,Other,2024-03-09,2024-03-14,Neurology,Fracture,Physiotherapy,Dr. LW,204,No Insurance,1367.93,Pending,No
+PID10948,Patient_948,47,Male,2024-03-01,2024-03-10,Cardiology,Migraine,Surgery,Dr. MY,107,HealthSafe,6138.17,Pending,Yes
+PID10949,Patient_949,60,Male,2024-05-17,2024-05-27,Neurology,Fracture,Medication,Dr. NA,166,MediCover,9300.06,Paid,Yes
+PID10950,Patient_950,80,Male,2024-02-19,2024-03-03,Orthopedics,Fracture,Observation,Dr. OC,290,HealthSafe,2781.17,Paid,Yes
+PID10951,Patient_951,25,Female,2024-01-03,2024-01-15,General Surgery,Flu,Surgery,Dr. PE,465,HealthSafe,9338.72,Paid,No
+PID10952,Patient_952,35,Male,2024-04-16,2024-04-21,Orthopedics,Fracture,Observation,Dr. QG,355,HealthSafe,17136.93,Pending,No
+PID10953,Patient_953,0,Other,2024-04-22,2024-04-27,Orthopedics,Asthma,Physiotherapy,Dr. RI,108,InsureWell,11835.76,Pending,Yes
+PID10954,Patient_954,7,Female,2024-04-03,2024-04-15,General Surgery,Fracture,Physiotherapy,Dr. SK,216,MediCover,2039.13,Partially Paid,Yes
+PID10955,Patient_955,98,Other,2024-04-27,2024-05-09,General Surgery,Asthma,Medication,Dr. TM,366,HealthSafe,4237.59,Pending,No
+PID10956,Patient_956,51,Male,2024-03-21,2024-04-04,Pediatrics,Migraine,Physiotherapy,Dr. UO,198,HealthSafe,9753.61,Partially Paid,Yes
+PID10957,Patient_957,78,Male,2024-04-18,2024-04-20,Pediatrics,Flu,Surgery,Dr. VQ,397,No Insurance,7549.0,Paid,No
+PID10958,Patient_958,46,Male,2024-02-20,2024-03-03,Orthopedics,Fracture,Physiotherapy,Dr. WS,496,MediCover,7495.18,Pending,No
+PID10959,Patient_959,55,Female,2024-05-26,2024-06-06,Orthopedics,Asthma,Medication,Dr. XU,263,HealthSafe,10820.72,Paid,Yes
+PID10960,Patient_960,85,Other,2024-06-18,2024-06-21,Cardiology,Asthma,Observation,Dr. YW,475,No Insurance,11895.72,Paid,Yes
+PID10961,Patient_961,13,Female,2024-02-04,2024-02-14,Cardiology,Asthma,Observation,Dr. ZY,240,No Insurance,16038.8,Paid,No
+PID10962,Patient_962,89,Female,2024-02-15,2024-02-24,Pediatrics,Hypertension,Physiotherapy,Dr. AA,367,InsureWell,7148.85,Paid,No
+PID10963,Patient_963,27,Male,2024-06-02,2024-06-09,Pediatrics,Diabetes,Surgery,Dr. BC,136,No Insurance,16206.59,Pending,No
+PID10964,Patient_964,86,Female,2024-03-09,2024-03-10,Cardiology,Migraine,Medication,Dr. CE,173,HealthSafe,7102.92,Paid,No
+PID10965,Patient_965,77,Female,2024-04-02,2024-04-05,Cardiology,Fracture,Surgery,Dr. DG,172,InsureWell,1580.94,Partially Paid,No
+PID10966,Patient_966,87,Male,2024-03-04,2024-03-16,Neurology,Hypertension,Medication,Dr. EI,407,InsureWell,11306.66,Pending,Yes
+PID10967,Patient_967,1,Female,2024-06-13,2024-06-15,Neurology,Fracture,Physiotherapy,Dr. FK,298,HealthSafe,11964.1,Paid,No
+PID10968,Patient_968,25,Male,2024-02-18,2024-02-19,Cardiology,Fracture,Medication,Dr. GM,229,MediCover,18723.53,Pending,No
+PID10969,Patient_969,13,Male,2024-05-28,2024-06-06,Neurology,Flu,Medication,Dr. HO,345,No Insurance,14658.2,Partially Paid,No
+PID10970,Patient_970,58,Male,2024-03-14,2024-03-22,General Surgery,Flu,Physiotherapy,Dr. IQ,411,InsureWell,18396.57,Paid,Yes
+PID10971,Patient_971,55,Male,2024-01-05,2024-01-10,Pediatrics,Flu,Surgery,Dr. JS,159,MediCover,18212.77,Partially Paid,Yes
+PID10972,Patient_972,6,Female,2024-04-09,2024-04-20,Pediatrics,Hypertension,Physiotherapy,Dr. KU,378,HealthSafe,12289.2,Paid,No
+PID10973,Patient_973,2,Male,2024-03-10,2024-03-22,Cardiology,Fracture,Medication,Dr. LW,202,No Insurance,10791.36,Partially Paid,No
+PID10974,Patient_974,22,Male,2024-03-30,2024-04-01,Orthopedics,Diabetes,Physiotherapy,Dr. MY,395,No Insurance,11370.1,Paid,Yes
+PID10975,Patient_975,17,Female,2024-01-04,2024-01-05,Cardiology,Migraine,Medication,Dr. NA,419,InsureWell,19577.45,Pending,Yes
+PID10976,Patient_976,37,Female,2024-05-05,2024-05-12,Neurology,Flu,Physiotherapy,Dr. OC,440,No Insurance,15576.77,Paid,Yes
+PID10977,Patient_977,98,Other,2024-02-08,2024-02-21,Orthopedics,Flu,Observation,Dr. PE,250,No Insurance,2572.19,Pending,Yes
+PID10978,Patient_978,14,Female,2024-06-11,2024-06-22,Neurology,Fracture,Observation,Dr. QG,256,No Insurance,15679.35,Paid,No
+PID10979,Patient_979,63,Female,2024-05-08,2024-05-19,General Surgery,Fracture,Physiotherapy,Dr. RI,305,No Insurance,3825.49,Paid,Yes
+PID10980,Patient_980,88,Other,2024-01-24,2024-01-26,Neurology,Hypertension,Surgery,Dr. SK,278,HealthSafe,9223.34,Partially Paid,No
+PID10981,Patient_981,27,Female,2024-02-26,2024-02-27,General Surgery,Hypertension,Medication,Dr. TM,296,MediCover,4603.96,Partially Paid,No
+PID10982,Patient_982,73,Female,2024-04-09,2024-04-11,General Surgery,Flu,Observation,Dr. UO,322,HealthSafe,13946.87,Partially Paid,Yes
+PID10983,Patient_983,38,Female,2024-03-10,2024-03-17,Neurology,Fracture,Surgery,Dr. VQ,188,HealthSafe,17607.54,Paid,Yes
+PID10984,Patient_984,56,Female,2024-02-10,2024-02-17,Neurology,Diabetes,Medication,Dr. WS,386,InsureWell,6162.06,Paid,Yes
+PID10985,Patient_985,16,Other,2024-06-22,2024-07-02,General Surgery,Migraine,Observation,Dr. XU,375,No Insurance,2099.21,Paid,Yes
+PID10986,Patient_986,85,Female,2024-02-29,2024-03-06,Orthopedics,Fracture,Observation,Dr. YW,335,HealthSafe,6320.62,Pending,No
+PID10987,Patient_987,89,Female,2024-04-17,2024-04-22,General Surgery,Fracture,Physiotherapy,Dr. ZY,282,No Insurance,13611.06,Pending,No
+PID10988,Patient_988,43,Other,2024-02-26,2024-02-29,Pediatrics,Asthma,Medication,Dr. AA,308,HealthSafe,6910.82,Paid,No
+PID10989,Patient_989,24,Male,2024-01-31,2024-02-14,General Surgery,Hypertension,Surgery,Dr. BC,229,HealthSafe,5923.19,Partially Paid,Yes
+PID10990,Patient_990,16,Other,2024-03-24,2024-04-05,Orthopedics,Migraine,Surgery,Dr. CE,252,InsureWell,4096.49,Partially Paid,No
+PID10991,Patient_991,12,Male,2024-05-31,2024-06-03,Pediatrics,Flu,Surgery,Dr. DG,112,MediCover,10201.57,Partially Paid,Yes
+PID10992,Patient_992,83,Other,2024-02-05,2024-02-16,Cardiology,Fracture,Medication,Dr. EI,221,MediCover,5881.0,Paid,No
+PID10993,Patient_993,24,Other,2024-06-06,2024-06-19,Cardiology,Flu,Surgery,Dr. FK,458,HealthSafe,14754.7,Partially Paid,Yes
+PID10994,Patient_994,67,Female,2024-05-31,2024-06-12,Orthopedics,Fracture,Surgery,Dr. GM,319,InsureWell,1994.14,Paid,No
+PID10995,Patient_995,9,Male,2024-04-17,2024-04-26,General Surgery,Flu,Surgery,Dr. HO,205,No Insurance,13448.64,Pending,No
+PID10996,Patient_996,66,Female,2024-04-15,2024-04-19,Neurology,Migraine,Physiotherapy,Dr. IQ,474,No Insurance,5132.42,Partially Paid,Yes
+PID10997,Patient_997,17,Male,2024-06-06,2024-06-15,Orthopedics,Hypertension,Physiotherapy,Dr. JS,169,HealthSafe,10040.95,Pending,No
+PID10998,Patient_998,99,Other,2024-03-26,2024-03-30,Pediatrics,Migraine,Medication,Dr. KU,294,MediCover,6078.75,Partially Paid,No
+PID10999,Patient_999,85,Other,2024-05-14,2024-05-16,Pediatrics,Asthma,Medication,Dr. LW,285,InsureWell,14593.99,Paid,Yes
